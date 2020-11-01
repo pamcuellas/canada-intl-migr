@@ -11,7 +11,7 @@ attribution: '© <a href="https://www.mapbox.com/about/maps/">Mapbox</a> © <a h
 maxZoom: 18,
 zoomOffset: -1,
 id: 'mapbox/streets-v11',
-accessToken: 'pk.eyJ1Ijoic2hyZXliaGF0aWEiLCJhIjoiY2swdG43bG91MGZhZzNudGMxdzFnN3VhYSJ9.q8lvUC5xHVl-Meoglqs2rQ'
+accessToken: 'pk.eyJ1IjoicGFtY3VlbGxhcyIsImEiOiJjazB0bXAyd2kwZjR0M2xyenR4c3pxMnNwIn0.cYcsaNRZ95uSPxGLGm85rw'
 }).addTo(map);
 
 /*
