@@ -9,7 +9,7 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
   maxZoom: 18,
   id: "mapbox.streets",
-  accessToken: "pk.eyJ1Ijoic2hyZXliaGF0aWEiLCJhIjoiY2swdG43bG91MGZhZzNudGMxdzFnN3VhYSJ9.q8lvUC5xHVl-Meoglqs2rQ"
+  accessToken: "pk.eyJ1IjoicGFtY3VlbGxhcyIsImEiOiJjazB0bXAyd2kwZjR0M2xyenR4c3pxMnNwIn0.cYcsaNRZ95uSPxGLGm85rw"
 }).addTo(myMap);
 
 function markerSize(value) {
