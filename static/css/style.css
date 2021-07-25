@@ -9,7 +9,7 @@ html, body{
 	padding-top: 100px;
 }
 
-#map {
+#mapid {
 	position: relative;
 	z-index: 0 !important;
 	border-radius: 8px;

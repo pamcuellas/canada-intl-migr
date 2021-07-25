@@ -16,6 +16,8 @@ from flask import Flask, render_template, redirect
 from flask_pymongo import PyMongo
 from dbconfig import dbname, dbuser, psswd, host, parameters
 
+#app = Flask(__name__)
+
 
 # In[2]:
 
@@ -35,4 +37,3 @@ def scrape():
 
 
     return json_data
-

@@ -442,18 +442,25 @@ function mountMarkers(markers) {
     }
 }
 
+
+
+
 // Define our base layers
-var streetmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+var streetmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
+    'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
     maxzoom: 28,
-    id: "mapbox.streets",
+    id: "mapbox/streets-v11",
     accessToken: API_KEY
 });
 
-var darkmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+var satellitemap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
+    'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
     maxzoom: 28,
-    id: "mapbox.dark",
+    //id: "mapbox/light-v10",
+    //id: "mapbox/dark-v10",
+    id: "mapbox/satellite-v9",
     accessToken: API_KEY
 });
 
@@ -463,12 +470,12 @@ var layear = L.layerGroup(markers);
 
 // Create a baseMaps object
 var baseMaps = {
-    "Street Map": streetmap,
-    "Dark Map": darkmap
+    "Street": streetmap,
+    "Satellite": satellitemap
 };
 
 // Define a map object
-var myMap = L.map("map", {
+var myMap = L.map("mapid", {
     center: [33, 20],
     zoom: 2,
     layers: [streetmap, layear]
@@ -485,6 +492,23 @@ var layerControl = L.control.layers(baseMaps, null, {
 // ======================
 function updateMap() {
     
+/*    
+    var curMapStyle;
+    
+    if (myMap.options.layers[0].options.id === 'mapbox/streets-v11') {
+        alert('Street');
+    }
+         
+    if (myMap.options.layers[0].options.id === 'mapbox/dark-v10') {
+        alert('Dark');
+    }
+         
+
+    //console.log(myMap.options.layers[0]);
+    console.log(myMap);
+*/
+
+
     // Update the dataset according with current filters 
     datasetMap = filterDataMap( );
 
@@ -499,7 +523,7 @@ function updateMap() {
     layear = L.layerGroup(markers);
 
       // Redefine the map object
-     myMap = L.map("map", {
+     myMap = L.map("mapid", {
         center: [33, 20],
         zoom: 2,
         layers: [streetmap, layear]
