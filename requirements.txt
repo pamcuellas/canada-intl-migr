@@ -39,7 +39,6 @@ comtypes==1.1.10
 conda
 conda-build
 conda-pack
-conda-verify
 conda_package_streaming
 constantly==15.1.0
 cookiecutter
