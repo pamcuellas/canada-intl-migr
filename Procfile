@@ -1,1 +1,4 @@
-web gunicorn app:app
+# Procfile
+
+web: gunicorn app.py
+
