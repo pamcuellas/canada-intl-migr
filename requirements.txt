@@ -39,7 +39,7 @@ comtypes==1.1.10
 conda
 conda-build
 conda-pack
-conda-repo-cli==1.0.41
+conda-repo-cli
 conda-token
 conda-verify==3.4.2
 conda_package_streaming
