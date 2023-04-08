@@ -37,7 +37,7 @@ colorama
 colorcet
 comtypes==1.1.10
 conda
-conda-build==3.22.0
+conda-build
 conda-content-trust
 conda-pack
 conda-package-handling
