@@ -1,3 +1,4 @@
+-e git+https://github.com/sphinx-doc/alabaster/@f0cb3194610b8a6d17571d49b6aa8ca8b1edde8a#egg=alabaster
 anaconda-client==1.11.0
 anaconda-navigator==2.3.2
 anaconda-project @ file:///C:/Windows/TEMP/abs_91fu4tfkih/croots/recipe/anaconda-project_1660339890874/work
