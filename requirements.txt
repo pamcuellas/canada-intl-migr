@@ -1,7 +1,7 @@
 -e git+https://github.com/sphinx-doc/alabaster/@f0cb3194610b8a6d17571d49b6aa8ca8b1edde8a#egg=alabaster
 anaconda-client==1.11.0
 anaconda-navigator==2.3.2
-anaconda-project @ file:///C:/Windows/TEMP/abs_91fu4tfkih/croots/recipe/anaconda-project_1660339890874/work
+anaconda-project
 anyio @ file:///C:/ci/anyio_1644481921011/work/dist
 appdirs==1.4.4
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
