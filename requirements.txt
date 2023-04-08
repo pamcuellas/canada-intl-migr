@@ -36,7 +36,7 @@ clyent
 colorama
 colorcet
 comtypes==1.1.10
-conda==23.3.1
+conda
 conda-build==3.22.0
 conda-content-trust
 conda-pack
