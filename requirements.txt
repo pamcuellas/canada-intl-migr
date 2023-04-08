@@ -212,7 +212,6 @@ python-snappy
 pytz
 pyviz-comms
 PyWavelets
-pywin32==302
 pywin32-ctypes
 pywinpty
 PyYAML==6.0
