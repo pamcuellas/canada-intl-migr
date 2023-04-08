@@ -1,6 +1,8 @@
 -e git+https://github.com/sphinx-doc/alabaster/@f0cb3194610b8a6d17571d49b6aa8ca8b1edde8a#egg=alabaster
 anaconda-client==1.11.0
 anaconda-navigator==2.3.2
+anaconda-project @ file:///C:/Windows/TEMP/abs_91fu4tfkih/croots/recipe/anaconda-project_1660339890874/work
+anyio @ file:///C:/ci/anyio_1644481921011/work/dist
 appdirs==1.4.4
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644551690056/work
@@ -29,7 +31,7 @@ boto3 @ file:///C:/Windows/TEMP/abs_4009c406-44ba-4406-8996-204d9b11202flt4kglbk
 botocore @ file:///C:/ci/botocore_1657735875454/work
 Bottleneck @ file:///C:/Windows/Temp/abs_3198ca53-903d-42fd-87b4-03e6d03a8381yfwsuve8/croots/recipe/bottleneck_1657175565403/work
 brotlipy==0.7.0
-certifi @ file:///C:/b/abs_4f5wo627a3/croots/recipe/certifi_1663615677642/work/certifi
+certifi==2022.12.7
 cffi @ file:///C:/Windows/Temp/abs_6808y9x40v/croots/recipe/cffi_1659598653989/work
 chardet @ file:///C:/ci/chardet_1607706937985/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
