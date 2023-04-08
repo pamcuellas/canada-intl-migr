@@ -26,6 +26,7 @@ boto3
 botocore
 Bottleneck
 brotlipy==0.7.0
+cargo
 certifi==2022.12.7
 cffi
 chardet
