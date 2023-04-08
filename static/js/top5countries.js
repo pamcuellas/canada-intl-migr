@@ -5,7 +5,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1980,
     "value": 7
@@ -16,7 +16,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1981,
     "value": 10
@@ -27,7 +27,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1982,
     "value": 7
@@ -38,7 +38,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1983,
     "value": 12
@@ -49,7 +49,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1984,
     "value": 14
@@ -60,7 +60,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1985,
     "value": 10
@@ -71,7 +71,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1986,
     "value": 37
@@ -82,7 +82,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1987,
     "value": 190
@@ -93,7 +93,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1988,
     "value": 217
@@ -104,7 +104,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1989,
     "value": 401
@@ -115,7 +115,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1990,
     "value": 1059
@@ -126,7 +126,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1991,
     "value": 3266
@@ -137,7 +137,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1992,
     "value": 5794
@@ -148,7 +148,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1993,
     "value": 3734
@@ -159,7 +159,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1994,
     "value": 1576
@@ -170,7 +170,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1995,
     "value": 2000
@@ -181,7 +181,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1996,
     "value": 1541
@@ -192,7 +192,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1997,
     "value": 1084
@@ -203,7 +203,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1998,
     "value": 1397
@@ -214,7 +214,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1999,
     "value": 1652
@@ -225,7 +225,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2000,
     "value": 1568
@@ -236,7 +236,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2001,
     "value": 1155
@@ -247,7 +247,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2002,
     "value": 730
@@ -258,7 +258,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2003,
     "value": 957
@@ -269,7 +269,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2004,
     "value": 1364
@@ -280,7 +280,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2005,
     "value": 1198
@@ -291,7 +291,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2006,
     "value": 1061
@@ -302,7 +302,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2007,
     "value": 1166
@@ -313,7 +313,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2008,
     "value": 1015
@@ -324,7 +324,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2009,
     "value": 1214
@@ -335,7 +335,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2010,
     "value": 1528
@@ -346,7 +346,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2011,
     "value": 1535
@@ -357,7 +357,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2012,
     "value": 1582
@@ -368,7 +368,7 @@ var top5countries = [
     "devname": "All",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2013,
     "value": 2028
@@ -379,7 +379,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1980,
     "value": 80
@@ -390,7 +390,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1981,
     "value": 67
@@ -401,7 +401,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1982,
     "value": 71
@@ -412,7 +412,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1983,
     "value": 69
@@ -423,7 +423,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1984,
     "value": 63
@@ -434,7 +434,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1985,
     "value": 44
@@ -445,7 +445,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1986,
     "value": 69
@@ -456,7 +456,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1987,
     "value": 132
@@ -467,7 +467,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1988,
     "value": 242
@@ -478,7 +478,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1989,
     "value": 434
@@ -489,7 +489,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1990,
     "value": 491
@@ -500,7 +500,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1991,
     "value": 872
@@ -511,7 +511,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1992,
     "value": 795
@@ -522,7 +522,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1993,
     "value": 717
@@ -533,7 +533,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1994,
     "value": 595
@@ -544,7 +544,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1995,
     "value": 1106
@@ -555,7 +555,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1996,
     "value": 2054
@@ -566,7 +566,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1997,
     "value": 1842
@@ -577,7 +577,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1998,
     "value": 2292
@@ -588,7 +588,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1999,
     "value": 2389
@@ -599,7 +599,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2000,
     "value": 2867
@@ -610,7 +610,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2001,
     "value": 3418
@@ -621,7 +621,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2002,
     "value": 3406
@@ -632,7 +632,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2003,
     "value": 3072
@@ -643,7 +643,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2004,
     "value": 3616
@@ -654,7 +654,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2005,
     "value": 3626
@@ -665,7 +665,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2006,
     "value": 4807
@@ -676,7 +676,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2007,
     "value": 3623
@@ -687,7 +687,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2008,
     "value": 4005
@@ -698,7 +698,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2009,
     "value": 5393
@@ -709,7 +709,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2010,
     "value": 4752
@@ -720,7 +720,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2011,
     "value": 4325
@@ -731,7 +731,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2012,
     "value": 3774
@@ -742,7 +742,7 @@ var top5countries = [
     "devname": "All",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2013,
     "value": 4331
@@ -753,7 +753,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1980,
     "value": 612
@@ -764,7 +764,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1981,
     "value": 660
@@ -775,7 +775,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1982,
     "value": 755
@@ -786,7 +786,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1983,
     "value": 455
@@ -797,7 +797,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1984,
     "value": 447
@@ -808,7 +808,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1985,
     "value": 348
@@ -819,7 +819,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1986,
     "value": 514
@@ -830,7 +830,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1987,
     "value": 1017
@@ -841,7 +841,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1988,
     "value": 1085
@@ -852,7 +852,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1989,
     "value": 1663
@@ -863,7 +863,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1990,
     "value": 2365
@@ -874,7 +874,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1991,
     "value": 1860
@@ -885,7 +885,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1992,
     "value": 1558
@@ -896,7 +896,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1993,
     "value": 1598
@@ -907,7 +907,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1994,
     "value": 2375
@@ -918,7 +918,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1995,
     "value": 2821
@@ -929,7 +929,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1996,
     "value": 2561
@@ -940,7 +940,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1997,
     "value": 2137
@@ -951,7 +951,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1998,
     "value": 1387
@@ -962,7 +962,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1999,
     "value": 1378
@@ -973,7 +973,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2000,
     "value": 1642
@@ -984,7 +984,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2001,
     "value": 2595
@@ -995,7 +995,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2002,
     "value": 2039
@@ -1006,7 +1006,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2003,
     "value": 2230
@@ -1017,7 +1017,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2004,
     "value": 2393
@@ -1028,7 +1028,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2005,
     "value": 2496
@@ -1039,7 +1039,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2006,
     "value": 2190
@@ -1050,7 +1050,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2007,
     "value": 2356
@@ -1061,7 +1061,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2008,
     "value": 3347
@@ -1072,7 +1072,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2009,
     "value": 3496
@@ -1083,7 +1083,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2010,
     "value": 5982
@@ -1094,7 +1094,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2011,
     "value": 4663
@@ -1105,7 +1105,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2012,
     "value": 5555
@@ -1116,7 +1116,7 @@ var top5countries = [
     "devname": "All",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2013,
     "value": 4165
@@ -1127,7 +1127,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1980,
     "value": 325
@@ -1138,7 +1138,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1981,
     "value": 471
@@ -1149,7 +1149,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1982,
     "value": 447
@@ -1160,7 +1160,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1983,
     "value": 335
@@ -1171,7 +1171,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1984,
     "value": 248
@@ -1182,7 +1182,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1985,
     "value": 328
@@ -1193,7 +1193,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1986,
     "value": 388
@@ -1204,7 +1204,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1987,
     "value": 505
@@ -1215,7 +1215,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1988,
     "value": 685
@@ -1226,7 +1226,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1989,
     "value": 1060
@@ -1237,7 +1237,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1990,
     "value": 1313
@@ -1248,7 +1248,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1991,
     "value": 1390
@@ -1259,7 +1259,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1992,
     "value": 1055
@@ -1270,7 +1270,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1993,
     "value": 1042
@@ -1281,7 +1281,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1994,
     "value": 660
@@ -1292,7 +1292,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1995,
     "value": 1069
@@ -1303,7 +1303,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1996,
     "value": 939
@@ -1314,7 +1314,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1997,
     "value": 1095
@@ -1325,7 +1325,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1998,
     "value": 1262
@@ -1336,7 +1336,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1999,
     "value": 1870
@@ -1347,7 +1347,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2000,
     "value": 2664
@@ -1358,7 +1358,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2001,
     "value": 4067
@@ -1369,7 +1369,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2002,
     "value": 4174
@@ -1380,7 +1380,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2003,
     "value": 3369
@@ -1391,7 +1391,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2004,
     "value": 3686
@@ -1402,7 +1402,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2005,
     "value": 2939
@@ -1413,7 +1413,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2006,
     "value": 3322
@@ -1424,7 +1424,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2007,
     "value": 4021
@@ -1435,7 +1435,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2008,
     "value": 4226
@@ -1446,7 +1446,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2009,
     "value": 5532
@@ -1457,7 +1457,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2010,
     "value": 6242
@@ -1468,7 +1468,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2011,
     "value": 4399
@@ -1479,7 +1479,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2012,
     "value": 3878
@@ -1490,7 +1490,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2013,
     "value": 3261
@@ -1501,7 +1501,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1980,
     "value": 1026
@@ -1512,7 +1512,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1981,
     "value": 1118
@@ -1523,7 +1523,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1982,
     "value": 781
@@ -1534,7 +1534,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1983,
     "value": 379
@@ -1545,7 +1545,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1984,
     "value": 271
@@ -1556,7 +1556,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1985,
     "value": 310
@@ -1567,7 +1567,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1986,
     "value": 718
@@ -1578,7 +1578,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1987,
     "value": 1470
@@ -1589,7 +1589,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1988,
     "value": 1305
@@ -1600,7 +1600,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1989,
     "value": 1301
@@ -1611,7 +1611,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1990,
     "value": 902
@@ -1622,7 +1622,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1991,
     "value": 823
@@ -1633,7 +1633,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1992,
     "value": 1059
@@ -1644,7 +1644,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1993,
     "value": 1549
@@ -1655,7 +1655,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1994,
     "value": 2366
@@ -1666,7 +1666,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1995,
     "value": 1455
@@ -1677,7 +1677,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1996,
     "value": 1308
@@ -1688,7 +1688,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1997,
     "value": 1729
@@ -1699,7 +1699,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1998,
     "value": 1350
@@ -1710,7 +1710,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1999,
     "value": 1478
@@ -1721,7 +1721,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2000,
     "value": 1763
@@ -1732,7 +1732,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2001,
     "value": 1899
@@ -1743,7 +1743,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2002,
     "value": 1498
@@ -1754,7 +1754,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2003,
     "value": 1245
@@ -1765,7 +1765,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2004,
     "value": 1175
@@ -1776,7 +1776,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2005,
     "value": 988
@@ -1787,7 +1787,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2006,
     "value": 1111
@@ -1798,7 +1798,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2007,
     "value": 1200
@@ -1809,7 +1809,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2008,
     "value": 1123
@@ -1820,7 +1820,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2009,
     "value": 1188
@@ -1831,7 +1831,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2010,
     "value": 1238
@@ -1842,7 +1842,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2011,
     "value": 959
@@ -1853,7 +1853,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2012,
     "value": 1243
@@ -1864,7 +1864,7 @@ var top5countries = [
     "devname": "All",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2013,
     "value": 1240
@@ -1875,7 +1875,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1980,
     "value": 5123
@@ -1886,7 +1886,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1981,
     "value": 6682
@@ -1897,7 +1897,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1982,
     "value": 3308
@@ -1908,7 +1908,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1983,
     "value": 1863
@@ -1919,7 +1919,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1984,
     "value": 1527
@@ -1930,7 +1930,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1985,
     "value": 1816
@@ -1941,7 +1941,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1986,
     "value": 1960
@@ -1952,7 +1952,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1987,
     "value": 2643
@@ -1963,7 +1963,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1988,
     "value": 2758
@@ -1974,7 +1974,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1989,
     "value": 4323
@@ -1985,7 +1985,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1990,
     "value": 8076
@@ -1996,7 +1996,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1991,
     "value": 14255
@@ -2007,7 +2007,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1992,
     "value": 10846
@@ -2018,7 +2018,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1993,
     "value": 9817
@@ -2029,7 +2029,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1994,
     "value": 13128
@@ -2040,7 +2040,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1995,
     "value": 14398
@@ -2051,7 +2051,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1996,
     "value": 19415
@@ -2062,7 +2062,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1997,
     "value": 20475
@@ -2073,7 +2073,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1998,
     "value": 21049
@@ -2084,7 +2084,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1999,
     "value": 30069
@@ -2095,7 +2095,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2000,
     "value": 35529
@@ -2106,7 +2106,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2001,
     "value": 36434
@@ -2117,7 +2117,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2002,
     "value": 31961
@@ -2128,7 +2128,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2003,
     "value": 36439
@@ -2139,7 +2139,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2004,
     "value": 36619
@@ -2150,7 +2150,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2005,
     "value": 42584
@@ -2161,7 +2161,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2006,
     "value": 33518
@@ -2172,7 +2172,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2007,
     "value": 27642
@@ -2183,7 +2183,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2008,
     "value": 30037
@@ -2194,7 +2194,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2009,
     "value": 29622
@@ -2205,7 +2205,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2010,
     "value": 30391
@@ -2216,7 +2216,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2011,
     "value": 28502
@@ -2227,7 +2227,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2012,
     "value": 33024
@@ -2238,7 +2238,7 @@ var top5countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2013,
     "value": 34129
@@ -2249,7 +2249,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1980,
     "value": 6051
@@ -2260,7 +2260,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1981,
     "value": 5921
@@ -2271,7 +2271,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1982,
     "value": 5249
@@ -2282,7 +2282,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1983,
     "value": 4562
@@ -2293,7 +2293,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1984,
     "value": 3801
@@ -2304,7 +2304,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1985,
     "value": 3150
@@ -2315,7 +2315,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1986,
     "value": 4166
@@ -2326,7 +2326,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1987,
     "value": 7360
@@ -2337,7 +2337,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1988,
     "value": 8639
@@ -2348,7 +2348,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1989,
     "value": 11865
@@ -2359,7 +2359,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1990,
     "value": 12509
@@ -2370,7 +2370,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1991,
     "value": 12718
@@ -2381,7 +2381,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1992,
     "value": 13670
@@ -2392,7 +2392,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1993,
     "value": 20479
@@ -2403,7 +2403,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1994,
     "value": 19532
@@ -2414,7 +2414,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1995,
     "value": 15864
@@ -2425,7 +2425,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1996,
     "value": 13692
@@ -2436,7 +2436,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1997,
     "value": 11549
@@ -2447,7 +2447,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1998,
     "value": 8735
@@ -2458,7 +2458,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1999,
     "value": 9734
@@ -2469,7 +2469,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2000,
     "value": 10763
@@ -2480,7 +2480,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2001,
     "value": 13836
@@ -2491,7 +2491,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2002,
     "value": 11707
@@ -2502,7 +2502,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2003,
     "value": 12758
@@ -2513,7 +2513,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2004,
     "value": 14004
@@ -2524,7 +2524,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2005,
     "value": 18139
@@ -2535,7 +2535,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2006,
     "value": 18400
@@ -2546,7 +2546,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2007,
     "value": 19837
@@ -2557,7 +2557,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2008,
     "value": 24887
@@ -2568,7 +2568,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2009,
     "value": 28573
@@ -2579,7 +2579,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2010,
     "value": 38617
@@ -2590,7 +2590,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2011,
     "value": 36765
@@ -2601,7 +2601,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2012,
     "value": 34315
@@ -2612,7 +2612,7 @@ var top5countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2013,
     "value": 29544
@@ -2623,7 +2623,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1980,
     "value": 8880
@@ -2634,7 +2634,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1981,
     "value": 8670
@@ -2645,7 +2645,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1982,
     "value": 8147
@@ -2656,7 +2656,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1983,
     "value": 7338
@@ -2667,7 +2667,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1984,
     "value": 5704
@@ -2678,7 +2678,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1985,
     "value": 4211
@@ -2689,7 +2689,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1986,
     "value": 7150
@@ -2700,7 +2700,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1987,
     "value": 10189
@@ -2711,7 +2711,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1988,
     "value": 11522
@@ -2722,7 +2722,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1989,
     "value": 10343
@@ -2733,7 +2733,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1990,
     "value": 12041
@@ -2744,7 +2744,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1991,
     "value": 13734
@@ -2755,7 +2755,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1992,
     "value": 13673
@@ -2766,7 +2766,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1993,
     "value": 21496
@@ -2777,7 +2777,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1994,
     "value": 18620
@@ -2788,7 +2788,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1995,
     "value": 18489
@@ -2799,7 +2799,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1996,
     "value": 23859
@@ -2810,7 +2810,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1997,
     "value": 22268
@@ -2821,7 +2821,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1998,
     "value": 17241
@@ -2832,7 +2832,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1999,
     "value": 18974
@@ -2843,7 +2843,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2000,
     "value": 28572
@@ -2854,7 +2854,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2001,
     "value": 31223
@@ -2865,7 +2865,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2002,
     "value": 31889
@@ -2876,7 +2876,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2003,
     "value": 27155
@@ -2887,7 +2887,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2004,
     "value": 28235
@@ -2898,7 +2898,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2005,
     "value": 36210
@@ -2909,7 +2909,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2006,
     "value": 33848
@@ -2920,7 +2920,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2007,
     "value": 28742
@@ -2931,7 +2931,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2008,
     "value": 28261
@@ -2942,7 +2942,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2009,
     "value": 29456
@@ -2953,7 +2953,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2010,
     "value": 34235
@@ -2964,7 +2964,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2011,
     "value": 27509
@@ -2975,7 +2975,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2012,
     "value": 30933
@@ -2986,7 +2986,7 @@ var top5countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2013,
     "value": 33087
@@ -2997,7 +2997,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1980,
     "value": 1172
@@ -3008,7 +3008,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1981,
     "value": 1429
@@ -3019,7 +3019,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1982,
     "value": 1822
@@ -3030,7 +3030,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1983,
     "value": 1592
@@ -3041,7 +3041,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1984,
     "value": 1977
@@ -3052,7 +3052,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1985,
     "value": 1648
@@ -3063,7 +3063,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1986,
     "value": 1794
@@ -3074,7 +3074,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1987,
     "value": 2989
@@ -3085,7 +3085,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1988,
     "value": 3273
@@ -3096,7 +3096,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1989,
     "value": 3781
@@ -3107,7 +3107,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1990,
     "value": 3655
@@ -3118,7 +3118,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1991,
     "value": 6250
@@ -3129,7 +3129,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1992,
     "value": 6814
@@ -3140,7 +3140,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1993,
     "value": 3959
@@ -3151,7 +3151,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1994,
     "value": 2785
@@ -3162,7 +3162,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1995,
     "value": 3956
@@ -3173,7 +3173,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1996,
     "value": 6205
@@ -3184,7 +3184,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1997,
     "value": 7982
@@ -3195,7 +3195,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1998,
     "value": 7057
@@ -3206,7 +3206,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1999,
     "value": 6208
@@ -3217,7 +3217,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2000,
     "value": 5884
@@ -3228,7 +3228,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2001,
     "value": 6169
@@ -3239,7 +3239,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2002,
     "value": 8129
@@ -3250,7 +3250,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2003,
     "value": 5918
@@ -3261,7 +3261,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2004,
     "value": 6348
@@ -3272,7 +3272,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2005,
     "value": 5837
@@ -3283,7 +3283,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2006,
     "value": 7480
@@ -3294,7 +3294,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2007,
     "value": 6974
@@ -3305,7 +3305,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2008,
     "value": 6475
@@ -3316,7 +3316,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2009,
     "value": 6580
@@ -3327,7 +3327,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2010,
     "value": 7477
@@ -3338,7 +3338,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2011,
     "value": 7479
@@ -3349,7 +3349,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2012,
     "value": 7534
@@ -3360,7 +3360,7 @@ var top5countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2013,
     "value": 11291
@@ -3371,7 +3371,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1980,
     "value": 978
@@ -3382,7 +3382,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1981,
     "value": 972
@@ -3393,7 +3393,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1982,
     "value": 1201
@@ -3404,7 +3404,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1983,
     "value": 900
@@ -3415,7 +3415,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1984,
     "value": 668
@@ -3426,7 +3426,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1985,
     "value": 514
@@ -3437,7 +3437,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1986,
     "value": 691
@@ -3448,7 +3448,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1987,
     "value": 1072
@@ -3459,7 +3459,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1988,
     "value": 1334
@@ -3470,7 +3470,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1989,
     "value": 2261
@@ -3481,7 +3481,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1990,
     "value": 2470
@@ -3492,7 +3492,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1991,
     "value": 3079
@@ -3503,7 +3503,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1992,
     "value": 4071
@@ -3514,7 +3514,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1993,
     "value": 4777
@@ -3525,7 +3525,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1994,
     "value": 4666
@@ -3536,7 +3536,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1995,
     "value": 4994
@@ -3547,7 +3547,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1996,
     "value": 9125
@@ -3558,7 +3558,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1997,
     "value": 13073
@@ -3569,7 +3569,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1998,
     "value": 9068
@@ -3580,7 +3580,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1999,
     "value": 9979
@@ -3591,7 +3591,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2000,
     "value": 15400
@@ -3602,7 +3602,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2001,
     "value": 16708
@@ -3613,7 +3613,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2002,
     "value": 15110
@@ -3624,7 +3624,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2003,
     "value": 13205
@@ -3635,7 +3635,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2004,
     "value": 13399
@@ -3646,7 +3646,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2005,
     "value": 14314
@@ -3657,7 +3657,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2006,
     "value": 13127
@@ -3668,7 +3668,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2007,
     "value": 10124
@@ -3679,7 +3679,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2008,
     "value": 8994
@@ -3690,7 +3690,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2009,
     "value": 7217
@@ -3701,7 +3701,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2010,
     "value": 6811
@@ -3712,7 +3712,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2011,
     "value": 7468
@@ -3723,7 +3723,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2012,
     "value": 11227
@@ -3734,7 +3734,7 @@ var top5countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2013,
     "value": 12603
@@ -3745,7 +3745,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1980,
     "value": 863
@@ -3756,7 +3756,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1981,
     "value": 2930
@@ -3767,7 +3767,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1982,
     "value": 5881
@@ -3778,7 +3778,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1983,
     "value": 4546
@@ -3789,7 +3789,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1984,
     "value": 3588
@@ -3800,7 +3800,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1985,
     "value": 2819
@@ -3811,7 +3811,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1986,
     "value": 4808
@@ -3822,7 +3822,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1987,
     "value": 6931
@@ -3833,7 +3833,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1988,
     "value": 9211
@@ -3844,7 +3844,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1989,
     "value": 16025
@@ -3855,7 +3855,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1990,
     "value": 17040
@@ -3866,7 +3866,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1991,
     "value": 16028
@@ -3877,7 +3877,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1992,
     "value": 12145
@@ -3888,7 +3888,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1993,
     "value": 6960
@@ -3899,7 +3899,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1994,
     "value": 3550
@@ -3910,7 +3910,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1995,
     "value": 2405
@@ -3921,7 +3921,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1996,
     "value": 2136
@@ -3932,7 +3932,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1997,
     "value": 1758
@@ -3943,7 +3943,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1998,
     "value": 1488
@@ -3954,7 +3954,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1999,
     "value": 1354
@@ -3965,7 +3965,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2000,
     "value": 1471
@@ -3976,7 +3976,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2001,
     "value": 1601
@@ -3987,7 +3987,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2002,
     "value": 1447
@@ -3998,7 +3998,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2003,
     "value": 1394
@@ -4009,7 +4009,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2004,
     "value": 1533
@@ -4020,7 +4020,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2005,
     "value": 1405
@@ -4031,7 +4031,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2006,
     "value": 1263
@@ -4042,7 +4042,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2007,
     "value": 1235
@@ -4053,7 +4053,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2008,
     "value": 1267
@@ -4064,7 +4064,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2009,
     "value": 1013
@@ -4075,7 +4075,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2010,
     "value": 795
@@ -4086,7 +4086,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2011,
     "value": 720
@@ -4097,7 +4097,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2012,
     "value": 779
@@ -4108,7 +4108,7 @@ var top5countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2013,
     "value": 852
@@ -4119,7 +4119,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1980,
     "value": 375
@@ -4130,7 +4130,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1981,
     "value": 438
@@ -4141,7 +4141,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1982,
     "value": 583
@@ -4152,7 +4152,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1983,
     "value": 543
@@ -4163,7 +4163,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1984,
     "value": 524
@@ -4174,7 +4174,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1985,
     "value": 604
@@ -4185,7 +4185,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1986,
     "value": 656
@@ -4196,7 +4196,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1987,
     "value": 1202
@@ -4207,7 +4207,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1988,
     "value": 1106
@@ -4218,7 +4218,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1989,
     "value": 1582
@@ -4229,7 +4229,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1990,
     "value": 2252
@@ -4240,7 +4240,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1991,
     "value": 2337
@@ -4251,7 +4251,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1992,
     "value": 3147
@@ -4262,7 +4262,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1993,
     "value": 3676
@@ -4273,7 +4273,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1994,
     "value": 3495
@@ -4284,7 +4284,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1995,
     "value": 4279
@@ -4295,7 +4295,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1996,
     "value": 3909
@@ -4306,7 +4306,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1997,
     "value": 3993
@@ -4317,7 +4317,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1998,
     "value": 3033
@@ -4328,7 +4328,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1999,
     "value": 3538
@@ -4339,7 +4339,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2000,
     "value": 4539
@@ -4350,7 +4350,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2001,
     "value": 5652
@@ -4361,7 +4361,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2002,
     "value": 5765
@@ -4372,7 +4372,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2003,
     "value": 5541
@@ -4383,7 +4383,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2004,
     "value": 5755
@@ -4394,7 +4394,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2005,
     "value": 5048
@@ -4405,7 +4405,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2006,
     "value": 4468
@@ -4416,7 +4416,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2007,
     "value": 3834
@@ -4427,7 +4427,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2008,
     "value": 2837
@@ -4438,7 +4438,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2009,
     "value": 2076
@@ -4449,7 +4449,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2010,
     "value": 1922
@@ -4460,7 +4460,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2011,
     "value": 1776
@@ -4471,7 +4471,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2012,
     "value": 1588
@@ -4482,7 +4482,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2013,
     "value": 1512
@@ -4493,7 +4493,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1980,
     "value": 22045
@@ -4504,7 +4504,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1981,
     "value": 24796
@@ -4515,7 +4515,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1982,
     "value": 20620
@@ -4526,7 +4526,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1983,
     "value": 10015
@@ -4537,7 +4537,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1984,
     "value": 10170
@@ -4548,7 +4548,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1985,
     "value": 9564
@@ -4559,7 +4559,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1986,
     "value": 9470
@@ -4570,7 +4570,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1987,
     "value": 21337
@@ -4581,7 +4581,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1988,
     "value": 27359
@@ -4592,7 +4592,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1989,
     "value": 23795
@@ -4603,7 +4603,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1990,
     "value": 31668
@@ -4614,7 +4614,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1991,
     "value": 23380
@@ -4625,7 +4625,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1992,
     "value": 34123
@@ -4636,7 +4636,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1993,
     "value": 33720
@@ -4647,7 +4647,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1994,
     "value": 39231
@@ -4658,7 +4658,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1995,
     "value": 30145
@@ -4669,7 +4669,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1996,
     "value": 29322
@@ -4680,7 +4680,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1997,
     "value": 22965
@@ -4691,7 +4691,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1998,
     "value": 10367
@@ -4702,7 +4702,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1999,
     "value": 7045
@@ -4713,7 +4713,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2000,
     "value": 8840
@@ -4724,7 +4724,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2001,
     "value": 11728
@@ -4735,7 +4735,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2002,
     "value": 8046
@@ -4746,7 +4746,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2003,
     "value": 6797
@@ -4757,7 +4757,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2004,
     "value": 7533
@@ -4768,7 +4768,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2005,
     "value": 7258
@@ -4779,7 +4779,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2006,
     "value": 7140
@@ -4790,7 +4790,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2007,
     "value": 8216
@@ -4801,7 +4801,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2008,
     "value": 8979
@@ -4812,7 +4812,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2009,
     "value": 8876
@@ -4823,7 +4823,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2010,
     "value": 8724
@@ -4834,7 +4834,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2011,
     "value": 6204
@@ -4845,7 +4845,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2012,
     "value": 6195
@@ -4856,7 +4856,7 @@ var top5countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2013,
     "value": 5827
@@ -4867,7 +4867,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1980,
     "value": 4473
@@ -4878,7 +4878,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1981,
     "value": 3486
@@ -4889,7 +4889,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1982,
     "value": 2432
@@ -4900,7 +4900,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1983,
     "value": 1433
@@ -4911,7 +4911,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1984,
     "value": 1398
@@ -4922,7 +4922,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1985,
     "value": 1451
@@ -4933,7 +4933,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1986,
     "value": 2617
@@ -4944,7 +4944,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1987,
     "value": 7684
@@ -4955,7 +4955,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1988,
     "value": 6888
@@ -4966,7 +4966,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1989,
     "value": 8570
@@ -4977,7 +4977,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1990,
     "value": 8452
@@ -4988,7 +4988,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1991,
     "value": 6286
@@ -4999,7 +4999,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1992,
     "value": 3328
@@ -5010,7 +5010,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1993,
     "value": 2347
@@ -5021,7 +5021,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1994,
     "value": 1599
@@ -5032,7 +5032,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1995,
     "value": 1405
@@ -5043,7 +5043,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1996,
     "value": 1237
@@ -5054,7 +5054,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1997,
     "value": 1167
@@ -5065,7 +5065,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1998,
     "value": 625
@@ -5076,7 +5076,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1999,
     "value": 458
@@ -5087,7 +5087,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2000,
     "value": 469
@@ -5098,7 +5098,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2001,
     "value": 531
@@ -5109,7 +5109,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2002,
     "value": 364
@@ -5120,7 +5120,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2003,
     "value": 329
@@ -5131,7 +5131,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2004,
     "value": 336
@@ -5142,7 +5142,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2005,
     "value": 338
@@ -5153,7 +5153,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2006,
     "value": 424
@@ -5164,7 +5164,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2007,
     "value": 405
@@ -5175,7 +5175,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2008,
     "value": 665
@@ -5186,7 +5186,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2009,
     "value": 623
@@ -5197,7 +5197,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2010,
     "value": 629
@@ -5208,7 +5208,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2011,
     "value": 528
@@ -5219,7 +5219,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2012,
     "value": 560
@@ -5230,7 +5230,7 @@ var top5countries = [
     "devname": "All",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2013,
     "value": 630
@@ -5241,7 +5241,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1980,
     "value": 1729
@@ -5252,7 +5252,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1981,
     "value": 2027
@@ -5263,7 +5263,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1982,
     "value": 2219
@@ -5274,7 +5274,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1983,
     "value": 1490
@@ -5285,7 +5285,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1984,
     "value": 1169
@@ -5296,7 +5296,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1985,
     "value": 1177
@@ -5307,7 +5307,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1986,
     "value": 1298
@@ -5318,7 +5318,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1987,
     "value": 1658
@@ -5329,7 +5329,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1988,
     "value": 2038
@@ -5340,7 +5340,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1989,
     "value": 2332
@@ -5351,7 +5351,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1990,
     "value": 2177
@@ -5362,7 +5362,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1991,
     "value": 2911
@@ -5373,7 +5373,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1992,
     "value": 3487
@@ -5384,7 +5384,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1993,
     "value": 3709
@@ -5395,7 +5395,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1994,
     "value": 2759
@@ -5406,7 +5406,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1995,
     "value": 3332
@@ -5417,7 +5417,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1996,
     "value": 2623
@@ -5428,7 +5428,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1997,
     "value": 2473
@@ -5439,7 +5439,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1998,
     "value": 3214
@@ -5450,7 +5450,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1999,
     "value": 3343
@@ -5461,7 +5461,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2000,
     "value": 3765
@@ -5472,7 +5472,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2001,
     "value": 3806
@@ -5483,7 +5483,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2002,
     "value": 3463
@@ -5494,7 +5494,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2003,
     "value": 3568
@@ -5505,7 +5505,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2004,
     "value": 4391
@@ -5516,7 +5516,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2005,
     "value": 4429
@@ -5527,7 +5527,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2006,
     "value": 4002
@@ -5538,7 +5538,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2007,
     "value": 4290
@@ -5549,7 +5549,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2008,
     "value": 4532
@@ -5560,7 +5560,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2009,
     "value": 5051
@@ -5571,7 +5571,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2010,
     "value": 4646
@@ -5582,7 +5582,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2011,
     "value": 4080
@@ -5593,7 +5593,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2012,
     "value": 6280
@@ -5604,7 +5604,7 @@ var top5countries = [
     "devname": "All",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2013,
     "value": 5623
@@ -5615,7 +5615,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1980,
     "value": 1666
@@ -5626,7 +5626,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1981,
     "value": 3692
@@ -5637,7 +5637,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1982,
     "value": 3498
@@ -5648,7 +5648,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1983,
     "value": 2860
@@ -5659,7 +5659,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1984,
     "value": 1418
@@ -5670,7 +5670,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1985,
     "value": 1321
@@ -5681,7 +5681,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1986,
     "value": 1753
@@ -5692,7 +5692,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1987,
     "value": 2132
@@ -5703,7 +5703,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1988,
     "value": 1829
@@ -5714,7 +5714,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1989,
     "value": 2377
@@ -5725,7 +5725,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1990,
     "value": 2379
@@ -5736,7 +5736,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1991,
     "value": 2829
@@ -5747,7 +5747,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1992,
     "value": 2399
@@ -5758,7 +5758,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1993,
     "value": 3655
@@ -5769,7 +5769,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1994,
     "value": 2100
@@ -5780,7 +5780,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1995,
     "value": 2014
@@ -5791,7 +5791,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1996,
     "value": 1955
@@ -5802,7 +5802,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1997,
     "value": 1645
@@ -5813,7 +5813,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1998,
     "value": 1295
@@ -5824,7 +5824,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1999,
     "value": 1439
@@ -5835,7 +5835,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2000,
     "value": 1631
@@ -5846,7 +5846,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2001,
     "value": 2433
@@ -5857,7 +5857,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2002,
     "value": 2174
@@ -5868,7 +5868,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2003,
     "value": 1930
@@ -5879,7 +5879,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2004,
     "value": 1652
@@ -5890,7 +5890,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2005,
     "value": 1682
@@ -5901,7 +5901,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2006,
     "value": 1619
@@ -5912,7 +5912,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2007,
     "value": 1598
@@ -5923,7 +5923,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2008,
     "value": 2491
@@ -5934,7 +5934,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2009,
     "value": 2080
@@ -5945,7 +5945,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2010,
     "value": 4744
@@ -5956,7 +5956,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2011,
     "value": 6503
@@ -5967,7 +5967,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2012,
     "value": 5868
@@ -5978,7 +5978,7 @@ var top5countries = [
     "devname": "All",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2013,
     "value": 4152
@@ -5989,7 +5989,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1980,
     "value": 3198
@@ -6000,7 +6000,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1981,
     "value": 2634
@@ -6011,7 +6011,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1982,
     "value": 2661
@@ -6022,7 +6022,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1983,
     "value": 2455
@@ -6033,7 +6033,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1984,
     "value": 2508
@@ -6044,7 +6044,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1985,
     "value": 2938
@@ -6055,7 +6055,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1986,
     "value": 4649
@@ -6066,7 +6066,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1987,
     "value": 5415
@@ -6077,7 +6077,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1988,
     "value": 3924
@@ -6088,7 +6088,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1989,
     "value": 3946
@@ -6099,7 +6099,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1990,
     "value": 4945
@@ -6110,7 +6110,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1991,
     "value": 5056
@@ -6121,7 +6121,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1992,
     "value": 5991
@@ -6132,7 +6132,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1993,
     "value": 6065
@@ -6143,7 +6143,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1994,
     "value": 3913
@@ -6154,7 +6154,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1995,
     "value": 3619
@@ -6165,7 +6165,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1996,
     "value": 3282
@@ -6176,7 +6176,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1997,
     "value": 2847
@@ -6187,7 +6187,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1998,
     "value": 2253
@@ -6198,7 +6198,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1999,
     "value": 2358
@@ -6209,7 +6209,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2000,
     "value": 2482
@@ -6220,7 +6220,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2001,
     "value": 2838
@@ -6231,7 +6231,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2002,
     "value": 2524
@@ -6242,7 +6242,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2003,
     "value": 2054
@@ -6253,7 +6253,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2004,
     "value": 2237
@@ -6264,7 +6264,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2005,
     "value": 1945
@@ -6275,7 +6275,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2006,
     "value": 1722
@@ -6286,7 +6286,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2007,
     "value": 2141
@@ -6297,7 +6297,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2008,
     "value": 2334
@@ -6308,7 +6308,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2009,
     "value": 2456
@@ -6319,7 +6319,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2010,
     "value": 2321
@@ -6330,7 +6330,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2011,
     "value": 2059
@@ -6341,7 +6341,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2012,
     "value": 2182
@@ -6352,7 +6352,7 @@ var top5countries = [
     "devname": "All",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2013,
     "value": 2479
@@ -6363,7 +6363,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1980,
     "value": 409
@@ -6374,7 +6374,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1981,
     "value": 394
@@ -6385,7 +6385,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1982,
     "value": 491
@@ -6396,7 +6396,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1983,
     "value": 490
@@ -6407,7 +6407,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1984,
     "value": 509
@@ -6418,7 +6418,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1985,
     "value": 425
@@ -6429,7 +6429,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1986,
     "value": 667
@@ -6440,7 +6440,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1987,
     "value": 813
@@ -6451,7 +6451,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1988,
     "value": 916
@@ -6462,7 +6462,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1989,
     "value": 1017
@@ -6473,7 +6473,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1990,
     "value": 1193
@@ -6484,7 +6484,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1991,
     "value": 1134
@@ -6495,7 +6495,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1992,
     "value": 1189
@@ -6506,7 +6506,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1993,
     "value": 1139
@@ -6517,7 +6517,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1994,
     "value": 776
@@ -6528,7 +6528,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1995,
     "value": 758
@@ -6539,7 +6539,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1996,
     "value": 1234
@@ -6550,7 +6550,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1997,
     "value": 1689
@@ -6561,7 +6561,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1998,
     "value": 1379
@@ -6572,7 +6572,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1999,
     "value": 1679
@@ -6583,7 +6583,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2000,
     "value": 1662
@@ -6594,7 +6594,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2001,
     "value": 1939
@@ -6605,7 +6605,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2002,
     "value": 1894
@@ -6616,7 +6616,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2003,
     "value": 1754
@@ -6627,7 +6627,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2004,
     "value": 2259
@@ -6638,7 +6638,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2005,
     "value": 2837
@@ -6649,7 +6649,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2006,
     "value": 2844
@@ -6660,7 +6660,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2007,
     "value": 3239
@@ -6671,7 +6671,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2008,
     "value": 2856
@@ -6682,7 +6682,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2009,
     "value": 3092
@@ -6693,7 +6693,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2010,
     "value": 3865
@@ -6704,7 +6704,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2011,
     "value": 3947
@@ -6715,7 +6715,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2012,
     "value": 4227
@@ -6726,7 +6726,7 @@ var top5countries = [
     "devname": "All",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2013,
     "value": 3996
@@ -6737,7 +6737,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1980,
     "value": 266
@@ -6748,7 +6748,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1981,
     "value": 326
@@ -6759,7 +6759,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1982,
     "value": 360
@@ -6770,7 +6770,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1983,
     "value": 244
@@ -6781,7 +6781,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1984,
     "value": 235
@@ -6792,7 +6792,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1985,
     "value": 214
@@ -6803,7 +6803,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1986,
     "value": 257
@@ -6814,7 +6814,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1987,
     "value": 376
@@ -6825,7 +6825,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1988,
     "value": 352
@@ -6836,7 +6836,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1989,
     "value": 439
@@ -6847,7 +6847,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1990,
     "value": 614
@@ -6858,7 +6858,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1991,
     "value": 652
@@ -6869,7 +6869,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1992,
     "value": 582
@@ -6880,7 +6880,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1993,
     "value": 464
@@ -6891,7 +6891,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1994,
     "value": 375
@@ -6902,7 +6902,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1995,
     "value": 371
@@ -6913,7 +6913,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1996,
     "value": 381
@@ -6924,7 +6924,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1997,
     "value": 578
@@ -6935,7 +6935,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1998,
     "value": 929
@@ -6946,7 +6946,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1999,
     "value": 1306
@@ -6957,7 +6957,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2000,
     "value": 2259
@@ -6968,7 +6968,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2001,
     "value": 2965
@@ -6979,7 +6979,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2002,
     "value": 3283
@@ -6990,7 +6990,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2003,
     "value": 4318
@@ -7001,7 +7001,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2004,
     "value": 4566
@@ -7012,7 +7012,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2005,
     "value": 6424
@@ -7023,7 +7023,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2006,
     "value": 6535
@@ -7034,7 +7034,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2007,
     "value": 5357
@@ -7045,7 +7045,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2008,
     "value": 5452
@@ -7056,7 +7056,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2009,
     "value": 4652
@@ -7067,7 +7067,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2010,
     "value": 5218
@@ -7078,7 +7078,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2011,
     "value": 4366
@@ -7089,7 +7089,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2012,
     "value": 3741
@@ -7100,7 +7100,7 @@ var top5countries = [
     "devname": "All",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2013,
     "value": 3631
@@ -7111,7 +7111,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1980,
     "value": 2334
@@ -7122,7 +7122,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1981,
     "value": 2943
@@ -7133,7 +7133,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1982,
     "value": 3575
@@ -7144,7 +7144,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1983,
     "value": 2650
@@ -7155,7 +7155,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1984,
     "value": 1932
@@ -7166,7 +7166,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1985,
     "value": 2299
@@ -7177,7 +7177,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1986,
     "value": 3942
@@ -7188,7 +7188,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1987,
     "value": 6174
@@ -7199,7 +7199,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1988,
     "value": 2977
@@ -7210,7 +7210,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1989,
     "value": 3270
@@ -7221,7 +7221,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1990,
     "value": 2824
@@ -7232,7 +7232,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1991,
     "value": 3266
@@ -7243,7 +7243,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1992,
     "value": 2932
@@ -7254,7 +7254,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1993,
     "value": 3399
@@ -7265,7 +7265,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1994,
     "value": 4181
@@ -7276,7 +7276,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1995,
     "value": 3935
@@ -7287,7 +7287,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1996,
     "value": 2324
@@ -7298,7 +7298,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1997,
     "value": 1795
@@ -7309,7 +7309,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1998,
     "value": 1238
@@ -7320,7 +7320,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1999,
     "value": 1366
@@ -7331,7 +7331,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2000,
     "value": 1308
@@ -7342,7 +7342,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2001,
     "value": 1707
@@ -7353,7 +7353,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2002,
     "value": 1479
@@ -7364,7 +7364,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2003,
     "value": 1410
@@ -7375,7 +7375,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2004,
     "value": 1341
@@ -7386,7 +7386,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2005,
     "value": 1215
@@ -7397,7 +7397,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2006,
     "value": 1286
@@ -7408,7 +7408,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2007,
     "value": 1277
@@ -7419,7 +7419,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2008,
     "value": 1137
@@ -7430,7 +7430,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2009,
     "value": 1180
@@ -7441,7 +7441,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2010,
     "value": 953
@@ -7452,7 +7452,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2011,
     "value": 804
@@ -7463,7 +7463,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2012,
     "value": 676
@@ -7474,7 +7474,7 @@ var top5countries = [
     "devname": "All",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2013,
     "value": 656
@@ -7485,7 +7485,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1980,
     "value": 702
@@ -7496,7 +7496,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1981,
     "value": 639
@@ -7507,7 +7507,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1982,
     "value": 484
@@ -7518,7 +7518,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1983,
     "value": 317
@@ -7529,7 +7529,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1984,
     "value": 317
@@ -7540,7 +7540,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1985,
     "value": 319
@@ -7551,7 +7551,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1986,
     "value": 356
@@ -7562,7 +7562,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1987,
     "value": 467
@@ -7573,7 +7573,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1988,
     "value": 410
@@ -7584,7 +7584,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1989,
     "value": 553
@@ -7595,7 +7595,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1990,
     "value": 620
@@ -7606,7 +7606,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1991,
     "value": 640
@@ -7617,7 +7617,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1992,
     "value": 734
@@ -7628,7 +7628,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1993,
     "value": 886
@@ -7639,7 +7639,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1994,
     "value": 702
@@ -7650,7 +7650,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1995,
     "value": 668
@@ -7661,7 +7661,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1996,
     "value": 699
@@ -7672,7 +7672,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1997,
     "value": 623
@@ -7683,7 +7683,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1998,
     "value": 479
@@ -7694,7 +7694,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1999,
     "value": 523
@@ -7705,7 +7705,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2000,
     "value": 599
@@ -7716,7 +7716,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2001,
     "value": 799
@@ -7727,7 +7727,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2002,
     "value": 747
@@ -7738,7 +7738,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2003,
     "value": 876
@@ -7749,7 +7749,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2004,
     "value": 930
@@ -7760,7 +7760,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2005,
     "value": 909
@@ -7771,7 +7771,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2006,
     "value": 875
@@ -7782,7 +7782,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2007,
     "value": 1033
@@ -7793,7 +7793,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2008,
     "value": 1018
@@ -7804,7 +7804,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2009,
     "value": 1018
@@ -7815,7 +7815,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2010,
     "value": 933
@@ -7826,7 +7826,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2011,
     "value": 851
@@ -7837,7 +7837,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2012,
     "value": 982
@@ -7848,7 +7848,7 @@ var top5countries = [
     "devname": "All",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2013,
     "value": 1121
@@ -7859,7 +7859,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1980,
     "value": 602
@@ -7870,7 +7870,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1981,
     "value": 480
@@ -7881,7 +7881,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1982,
     "value": 364
@@ -7892,7 +7892,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1983,
     "value": 140
@@ -7903,7 +7903,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1984,
     "value": 164
@@ -7914,7 +7914,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1985,
     "value": 148
@@ -7925,7 +7925,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1986,
     "value": 176
@@ -7936,7 +7936,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1987,
     "value": 208
@@ -7947,7 +7947,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1988,
     "value": 200
@@ -7958,7 +7958,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1989,
     "value": 237
@@ -7969,7 +7969,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1990,
     "value": 270
@@ -7980,7 +7980,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1991,
     "value": 227
@@ -7991,7 +7991,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1992,
     "value": 341
@@ -8002,7 +8002,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1993,
     "value": 352
@@ -8013,7 +8013,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1994,
     "value": 234
@@ -8024,7 +8024,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1995,
     "value": 210
@@ -8035,7 +8035,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1996,
     "value": 219
@@ -8046,7 +8046,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1997,
     "value": 181
@@ -8057,7 +8057,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1998,
     "value": 146
@@ -8068,7 +8068,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1999,
     "value": 164
@@ -8079,7 +8079,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2000,
     "value": 212
@@ -8090,7 +8090,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2001,
     "value": 360
@@ -8101,7 +8101,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2002,
     "value": 321
@@ -8112,7 +8112,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2003,
     "value": 345
@@ -8123,7 +8123,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2004,
     "value": 350
@@ -8134,7 +8134,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2005,
     "value": 370
@@ -8145,7 +8145,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2006,
     "value": 318
@@ -8156,7 +8156,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2007,
     "value": 350
@@ -8167,7 +8167,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2008,
     "value": 480
@@ -8178,7 +8178,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2009,
     "value": 520
@@ -8189,7 +8189,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2010,
     "value": 490
@@ -8200,7 +8200,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2011,
     "value": 375
@@ -8211,7 +8211,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2012,
     "value": 417
@@ -8222,7 +8222,7 @@ var top5countries = [
     "devname": "All",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2013,
     "value": 415
@@ -8233,7 +8233,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1980,
     "value": 632
@@ -8244,7 +8244,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1981,
     "value": 705
@@ -8255,7 +8255,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1982,
     "value": 814
@@ -8266,7 +8266,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1983,
     "value": 554
@@ -8277,7 +8277,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1984,
     "value": 389
@@ -8288,7 +8288,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1985,
     "value": 446
@@ -8299,7 +8299,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1986,
     "value": 361
@@ -8310,7 +8310,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1987,
     "value": 523
@@ -8321,7 +8321,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1988,
     "value": 561
@@ -8332,7 +8332,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1989,
     "value": 736
@@ -8343,7 +8343,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1990,
     "value": 1172
@@ -8354,7 +8354,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1991,
     "value": 1619
@@ -8365,7 +8365,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1992,
     "value": 1782
@@ -8376,7 +8376,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1993,
     "value": 1317
@@ -8387,7 +8387,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1994,
     "value": 1016
@@ -8398,7 +8398,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1995,
     "value": 674
@@ -8409,7 +8409,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1996,
     "value": 621
@@ -8420,7 +8420,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1997,
     "value": 448
@@ -8431,7 +8431,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1998,
     "value": 388
@@ -8442,7 +8442,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1999,
     "value": 360
@@ -8453,7 +8453,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2000,
     "value": 458
@@ -8464,7 +8464,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2001,
     "value": 643
@@ -8475,7 +8475,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2002,
     "value": 611
@@ -8486,7 +8486,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2003,
     "value": 561
@@ -8497,7 +8497,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2004,
     "value": 495
@@ -8508,7 +8508,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2005,
     "value": 298
@@ -8519,7 +8519,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2006,
     "value": 277
@@ -8530,7 +8530,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2007,
     "value": 304
@@ -8541,7 +8541,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2008,
     "value": 321
@@ -8552,7 +8552,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2009,
     "value": 311
@@ -8563,7 +8563,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2010,
     "value": 398
@@ -8574,7 +8574,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2011,
     "value": 316
@@ -8585,7 +8585,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2012,
     "value": 270
@@ -8596,7 +8596,7 @@ var top5countries = [
     "devname": "All",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2013,
     "value": 228
@@ -8607,7 +8607,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1980,
     "value": 3
@@ -8618,7 +8618,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1981,
     "value": 7
@@ -8629,7 +8629,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1982,
     "value": 4
@@ -8640,7 +8640,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1983,
     "value": 1
@@ -8651,7 +8651,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1984,
     "value": 3
@@ -8662,7 +8662,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1985,
     "value": 0
@@ -8673,7 +8673,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1986,
     "value": 3
@@ -8684,7 +8684,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1987,
     "value": 0
@@ -8695,7 +8695,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1988,
     "value": 1
@@ -8706,7 +8706,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1989,
     "value": 1
@@ -8717,7 +8717,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1990,
     "value": 2
@@ -8728,7 +8728,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1991,
     "value": 3
@@ -8739,7 +8739,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1992,
     "value": 1
@@ -8750,7 +8750,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1993,
     "value": 5
@@ -8761,7 +8761,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1994,
     "value": 3
@@ -8772,7 +8772,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1995,
     "value": 2
@@ -8783,7 +8783,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1996,
     "value": 2
@@ -8794,7 +8794,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1997,
     "value": 3
@@ -8805,7 +8805,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1998,
     "value": 4
@@ -8816,7 +8816,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1999,
     "value": 0
@@ -8827,7 +8827,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2000,
     "value": 1
@@ -8838,7 +8838,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2001,
     "value": 2
@@ -8849,7 +8849,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2002,
     "value": 2
@@ -8860,7 +8860,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2003,
     "value": 3
@@ -8871,7 +8871,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2004,
     "value": 3
@@ -8882,7 +8882,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2005,
     "value": 2
@@ -8893,7 +8893,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2006,
     "value": 0
@@ -8904,7 +8904,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2007,
     "value": 1
@@ -8915,7 +8915,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2008,
     "value": 4
@@ -8926,7 +8926,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2009,
     "value": 2
@@ -8937,7 +8937,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2010,
     "value": 5
@@ -8948,7 +8948,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2011,
     "value": 3
@@ -8959,7 +8959,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2012,
     "value": 2
@@ -8970,7 +8970,7 @@ var top5countries = [
     "devname": "All",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2013,
     "value": 0
@@ -8981,7 +8981,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1980,
     "value": 2
@@ -8992,7 +8992,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1981,
     "value": 4
@@ -9003,7 +9003,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1982,
     "value": 7
@@ -9014,7 +9014,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1983,
     "value": 1
@@ -9025,7 +9025,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1984,
     "value": 2
@@ -9036,7 +9036,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1985,
     "value": 5
@@ -9047,7 +9047,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1986,
     "value": 7
@@ -9058,7 +9058,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1987,
     "value": 0
@@ -9069,7 +9069,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1988,
     "value": 4
@@ -9080,7 +9080,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1989,
     "value": 9
@@ -9091,7 +9091,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1990,
     "value": 7
@@ -9102,7 +9102,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1991,
     "value": 4
@@ -9113,7 +9113,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1992,
     "value": 4
@@ -9124,7 +9124,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1993,
     "value": 5
@@ -9135,7 +9135,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1994,
     "value": 7
@@ -9146,7 +9146,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1995,
     "value": 9
@@ -9157,7 +9157,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1996,
     "value": 8
@@ -9168,7 +9168,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1997,
     "value": 8
@@ -9179,7 +9179,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1998,
     "value": 2
@@ -9190,7 +9190,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1999,
     "value": 6
@@ -9201,7 +9201,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2000,
     "value": 0
@@ -9212,7 +9212,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2001,
     "value": 6
@@ -9223,7 +9223,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2002,
     "value": 2
@@ -9234,7 +9234,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2003,
     "value": 5
@@ -9245,7 +9245,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2004,
     "value": 5
@@ -9256,7 +9256,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2005,
     "value": 2
@@ -9267,7 +9267,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2006,
     "value": 0
@@ -9278,7 +9278,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2007,
     "value": 1
@@ -9289,7 +9289,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2008,
     "value": 0
@@ -9300,7 +9300,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2009,
     "value": 5
@@ -9311,7 +9311,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2010,
     "value": 5
@@ -9322,7 +9322,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2011,
     "value": 2
@@ -9333,7 +9333,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2012,
     "value": 3
@@ -9344,7 +9344,7 @@ var top5countries = [
     "devname": "All",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2013,
     "value": 5
@@ -9355,7 +9355,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1980,
     "value": 80
@@ -9366,7 +9366,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1981,
     "value": 67
@@ -9377,7 +9377,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1982,
     "value": 71
@@ -9388,7 +9388,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1983,
     "value": 69
@@ -9399,7 +9399,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1984,
     "value": 63
@@ -9410,7 +9410,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1985,
     "value": 44
@@ -9421,7 +9421,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1986,
     "value": 69
@@ -9432,7 +9432,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1987,
     "value": 132
@@ -9443,7 +9443,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1988,
     "value": 242
@@ -9454,7 +9454,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1989,
     "value": 434
@@ -9465,7 +9465,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1990,
     "value": 491
@@ -9476,7 +9476,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1991,
     "value": 872
@@ -9487,7 +9487,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1992,
     "value": 795
@@ -9498,7 +9498,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1993,
     "value": 717
@@ -9509,7 +9509,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1994,
     "value": 595
@@ -9520,7 +9520,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1995,
     "value": 1106
@@ -9531,7 +9531,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1996,
     "value": 2054
@@ -9542,7 +9542,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1997,
     "value": 1842
@@ -9553,7 +9553,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1998,
     "value": 2292
@@ -9564,7 +9564,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 1999,
     "value": 2389
@@ -9575,7 +9575,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2000,
     "value": 2867
@@ -9586,7 +9586,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2001,
     "value": 3418
@@ -9597,7 +9597,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2002,
     "value": 3406
@@ -9608,7 +9608,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2003,
     "value": 3072
@@ -9619,7 +9619,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2004,
     "value": 3616
@@ -9630,7 +9630,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2005,
     "value": 3626
@@ -9641,7 +9641,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2006,
     "value": 4807
@@ -9652,7 +9652,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2007,
     "value": 3623
@@ -9663,7 +9663,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2008,
     "value": 4005
@@ -9674,7 +9674,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2009,
     "value": 5393
@@ -9685,7 +9685,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2010,
     "value": 4752
@@ -9696,7 +9696,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2011,
     "value": 4325
@@ -9707,7 +9707,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2012,
     "value": 3774
@@ -9718,7 +9718,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 28,
     "lon": 3,
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://flagcdn.com/w20/dz.png",
     "capital": "Algiers",
     "year": 2013,
     "value": 4331
@@ -9729,7 +9729,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1980,
     "value": 702
@@ -9740,7 +9740,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1981,
     "value": 639
@@ -9751,7 +9751,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1982,
     "value": 484
@@ -9762,7 +9762,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1983,
     "value": 317
@@ -9773,7 +9773,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1984,
     "value": 317
@@ -9784,7 +9784,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1985,
     "value": 319
@@ -9795,7 +9795,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1986,
     "value": 356
@@ -9806,7 +9806,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1987,
     "value": 467
@@ -9817,7 +9817,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1988,
     "value": 410
@@ -9828,7 +9828,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1989,
     "value": 553
@@ -9839,7 +9839,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1990,
     "value": 620
@@ -9850,7 +9850,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1991,
     "value": 640
@@ -9861,7 +9861,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1992,
     "value": 734
@@ -9872,7 +9872,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1993,
     "value": 886
@@ -9883,7 +9883,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1994,
     "value": 702
@@ -9894,7 +9894,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1995,
     "value": 668
@@ -9905,7 +9905,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1996,
     "value": 699
@@ -9916,7 +9916,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1997,
     "value": 623
@@ -9927,7 +9927,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1998,
     "value": 479
@@ -9938,7 +9938,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 1999,
     "value": 523
@@ -9949,7 +9949,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2000,
     "value": 599
@@ -9960,7 +9960,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2001,
     "value": 799
@@ -9971,7 +9971,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2002,
     "value": 747
@@ -9982,7 +9982,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2003,
     "value": 876
@@ -9993,7 +9993,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2004,
     "value": 930
@@ -10004,7 +10004,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2005,
     "value": 909
@@ -10015,7 +10015,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2006,
     "value": 875
@@ -10026,7 +10026,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2007,
     "value": 1033
@@ -10037,7 +10037,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2008,
     "value": 1018
@@ -10048,7 +10048,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2009,
     "value": 1018
@@ -10059,7 +10059,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2010,
     "value": 933
@@ -10070,7 +10070,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2011,
     "value": 851
@@ -10081,7 +10081,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2012,
     "value": 982
@@ -10092,7 +10092,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -27,
     "lon": 133,
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://flagcdn.com/w20/au.png",
     "capital": "Canberra",
     "year": 2013,
     "value": 1121
@@ -10103,7 +10103,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1980,
     "value": 5123
@@ -10114,7 +10114,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1981,
     "value": 6682
@@ -10125,7 +10125,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1982,
     "value": 3308
@@ -10136,7 +10136,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1983,
     "value": 1863
@@ -10147,7 +10147,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1984,
     "value": 1527
@@ -10158,7 +10158,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1985,
     "value": 1816
@@ -10169,7 +10169,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1986,
     "value": 1960
@@ -10180,7 +10180,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1987,
     "value": 2643
@@ -10191,7 +10191,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1988,
     "value": 2758
@@ -10202,7 +10202,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1989,
     "value": 4323
@@ -10213,7 +10213,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1990,
     "value": 8076
@@ -10224,7 +10224,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1991,
     "value": 14255
@@ -10235,7 +10235,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1992,
     "value": 10846
@@ -10246,7 +10246,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1993,
     "value": 9817
@@ -10257,7 +10257,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1994,
     "value": 13128
@@ -10268,7 +10268,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1995,
     "value": 14398
@@ -10279,7 +10279,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1996,
     "value": 19415
@@ -10290,7 +10290,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1997,
     "value": 20475
@@ -10301,7 +10301,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1998,
     "value": 21049
@@ -10312,7 +10312,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 1999,
     "value": 30069
@@ -10323,7 +10323,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2000,
     "value": 35529
@@ -10334,7 +10334,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2001,
     "value": 36434
@@ -10345,7 +10345,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2002,
     "value": 31961
@@ -10356,7 +10356,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2003,
     "value": 36439
@@ -10367,7 +10367,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2004,
     "value": 36619
@@ -10378,7 +10378,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2005,
     "value": 42584
@@ -10389,7 +10389,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2006,
     "value": 33518
@@ -10400,7 +10400,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2007,
     "value": 27642
@@ -10411,7 +10411,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2008,
     "value": 30037
@@ -10422,7 +10422,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2009,
     "value": 29622
@@ -10433,7 +10433,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2010,
     "value": 30391
@@ -10444,7 +10444,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2011,
     "value": 28502
@@ -10455,7 +10455,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2012,
     "value": 33024
@@ -10466,7 +10466,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "capital": "Beijing",
     "year": 2013,
     "value": 34129
@@ -10477,7 +10477,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1980,
     "value": 266
@@ -10488,7 +10488,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1981,
     "value": 326
@@ -10499,7 +10499,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1982,
     "value": 360
@@ -10510,7 +10510,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1983,
     "value": 244
@@ -10521,7 +10521,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1984,
     "value": 235
@@ -10532,7 +10532,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1985,
     "value": 214
@@ -10543,7 +10543,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1986,
     "value": 257
@@ -10554,7 +10554,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1987,
     "value": 376
@@ -10565,7 +10565,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1988,
     "value": 352
@@ -10576,7 +10576,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1989,
     "value": 439
@@ -10587,7 +10587,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1990,
     "value": 614
@@ -10598,7 +10598,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1991,
     "value": 652
@@ -10609,7 +10609,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1992,
     "value": 582
@@ -10620,7 +10620,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1993,
     "value": 464
@@ -10631,7 +10631,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1994,
     "value": 375
@@ -10642,7 +10642,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1995,
     "value": 371
@@ -10653,7 +10653,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1996,
     "value": 381
@@ -10664,7 +10664,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1997,
     "value": 578
@@ -10675,7 +10675,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1998,
     "value": 929
@@ -10686,7 +10686,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 1999,
     "value": 1306
@@ -10697,7 +10697,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2000,
     "value": 2259
@@ -10708,7 +10708,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2001,
     "value": 2965
@@ -10719,7 +10719,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2002,
     "value": 3283
@@ -10730,7 +10730,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2003,
     "value": 4318
@@ -10741,7 +10741,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2004,
     "value": 4566
@@ -10752,7 +10752,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2005,
     "value": 6424
@@ -10763,7 +10763,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2006,
     "value": 6535
@@ -10774,7 +10774,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2007,
     "value": 5357
@@ -10785,7 +10785,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2008,
     "value": 5452
@@ -10796,7 +10796,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2009,
     "value": 4652
@@ -10807,7 +10807,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2010,
     "value": 5218
@@ -10818,7 +10818,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2011,
     "value": 4366
@@ -10829,7 +10829,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2012,
     "value": 3741
@@ -10840,7 +10840,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 4,
     "lon": -72,
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://flagcdn.com/w20/co.png",
     "capital": "Bogotá",
     "year": 2013,
     "value": 3631
@@ -10851,7 +10851,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1980,
     "value": 612
@@ -10862,7 +10862,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1981,
     "value": 660
@@ -10873,7 +10873,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1982,
     "value": 755
@@ -10884,7 +10884,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1983,
     "value": 455
@@ -10895,7 +10895,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1984,
     "value": 447
@@ -10906,7 +10906,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1985,
     "value": 348
@@ -10917,7 +10917,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1986,
     "value": 514
@@ -10928,7 +10928,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1987,
     "value": 1017
@@ -10939,7 +10939,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1988,
     "value": 1085
@@ -10950,7 +10950,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1989,
     "value": 1663
@@ -10961,7 +10961,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1990,
     "value": 2365
@@ -10972,7 +10972,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1991,
     "value": 1860
@@ -10983,7 +10983,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1992,
     "value": 1558
@@ -10994,7 +10994,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1993,
     "value": 1598
@@ -11005,7 +11005,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1994,
     "value": 2375
@@ -11016,7 +11016,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1995,
     "value": 2821
@@ -11027,7 +11027,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1996,
     "value": 2561
@@ -11038,7 +11038,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1997,
     "value": 2137
@@ -11049,7 +11049,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1998,
     "value": 1387
@@ -11060,7 +11060,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 1999,
     "value": 1378
@@ -11071,7 +11071,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2000,
     "value": 1642
@@ -11082,7 +11082,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2001,
     "value": 2595
@@ -11093,7 +11093,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2002,
     "value": 2039
@@ -11104,7 +11104,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2003,
     "value": 2230
@@ -11115,7 +11115,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2004,
     "value": 2393
@@ -11126,7 +11126,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2005,
     "value": 2496
@@ -11137,7 +11137,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2006,
     "value": 2190
@@ -11148,7 +11148,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2007,
     "value": 2356
@@ -11159,7 +11159,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2008,
     "value": 3347
@@ -11170,7 +11170,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2009,
     "value": 3496
@@ -11181,7 +11181,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2010,
     "value": 5982
@@ -11192,7 +11192,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2011,
     "value": 4663
@@ -11203,7 +11203,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2012,
     "value": 5555
@@ -11214,7 +11214,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 27,
     "lon": 30,
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://flagcdn.com/w20/eg.png",
     "capital": "Cairo",
     "year": 2013,
     "value": 4165
@@ -11225,7 +11225,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1980,
     "value": 632
@@ -11236,7 +11236,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1981,
     "value": 705
@@ -11247,7 +11247,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1982,
     "value": 814
@@ -11258,7 +11258,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1983,
     "value": 554
@@ -11269,7 +11269,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1984,
     "value": 389
@@ -11280,7 +11280,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1985,
     "value": 446
@@ -11291,7 +11291,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1986,
     "value": 361
@@ -11302,7 +11302,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1987,
     "value": 523
@@ -11313,7 +11313,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1988,
     "value": 561
@@ -11324,7 +11324,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1989,
     "value": 736
@@ -11335,7 +11335,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1990,
     "value": 1172
@@ -11346,7 +11346,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1991,
     "value": 1619
@@ -11357,7 +11357,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1992,
     "value": 1782
@@ -11368,7 +11368,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1993,
     "value": 1317
@@ -11379,7 +11379,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1994,
     "value": 1016
@@ -11390,7 +11390,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1995,
     "value": 674
@@ -11401,7 +11401,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1996,
     "value": 621
@@ -11412,7 +11412,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1997,
     "value": 448
@@ -11423,7 +11423,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1998,
     "value": 388
@@ -11434,7 +11434,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 1999,
     "value": 360
@@ -11445,7 +11445,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2000,
     "value": 458
@@ -11456,7 +11456,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2001,
     "value": 643
@@ -11467,7 +11467,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2002,
     "value": 611
@@ -11478,7 +11478,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2003,
     "value": 561
@@ -11489,7 +11489,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2004,
     "value": 495
@@ -11500,7 +11500,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2005,
     "value": 298
@@ -11511,7 +11511,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2006,
     "value": 277
@@ -11522,7 +11522,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2007,
     "value": 304
@@ -11533,7 +11533,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2008,
     "value": 321
@@ -11544,7 +11544,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2009,
     "value": 311
@@ -11555,7 +11555,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2010,
     "value": 398
@@ -11566,7 +11566,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2011,
     "value": 316
@@ -11577,7 +11577,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2012,
     "value": 270
@@ -11588,7 +11588,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -18,
     "lon": 175,
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://flagcdn.com/w20/fj.png",
     "capital": "Suva",
     "year": 2013,
     "value": 228
@@ -11599,7 +11599,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1980,
     "value": 1729
@@ -11610,7 +11610,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1981,
     "value": 2027
@@ -11621,7 +11621,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1982,
     "value": 2219
@@ -11632,7 +11632,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1983,
     "value": 1490
@@ -11643,7 +11643,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1984,
     "value": 1169
@@ -11654,7 +11654,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1985,
     "value": 1177
@@ -11665,7 +11665,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1986,
     "value": 1298
@@ -11676,7 +11676,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1987,
     "value": 1658
@@ -11687,7 +11687,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1988,
     "value": 2038
@@ -11698,7 +11698,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1989,
     "value": 2332
@@ -11709,7 +11709,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1990,
     "value": 2177
@@ -11720,7 +11720,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1991,
     "value": 2911
@@ -11731,7 +11731,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1992,
     "value": 3487
@@ -11742,7 +11742,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1993,
     "value": 3709
@@ -11753,7 +11753,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1994,
     "value": 2759
@@ -11764,7 +11764,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1995,
     "value": 3332
@@ -11775,7 +11775,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1996,
     "value": 2623
@@ -11786,7 +11786,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1997,
     "value": 2473
@@ -11797,7 +11797,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1998,
     "value": 3214
@@ -11808,7 +11808,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 1999,
     "value": 3343
@@ -11819,7 +11819,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2000,
     "value": 3765
@@ -11830,7 +11830,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2001,
     "value": 3806
@@ -11841,7 +11841,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2002,
     "value": 3463
@@ -11852,7 +11852,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2003,
     "value": 3568
@@ -11863,7 +11863,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2004,
     "value": 4391
@@ -11874,7 +11874,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2005,
     "value": 4429
@@ -11885,7 +11885,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2006,
     "value": 4002
@@ -11896,7 +11896,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2007,
     "value": 4290
@@ -11907,7 +11907,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2008,
     "value": 4532
@@ -11918,7 +11918,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2009,
     "value": 5051
@@ -11929,7 +11929,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2010,
     "value": 4646
@@ -11940,7 +11940,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2011,
     "value": 4080
@@ -11951,7 +11951,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2012,
     "value": 6280
@@ -11962,7 +11962,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "capital": "Paris",
     "year": 2013,
     "value": 5623
@@ -11973,7 +11973,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1980,
     "value": 2334
@@ -11984,7 +11984,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1981,
     "value": 2943
@@ -11995,7 +11995,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1982,
     "value": 3575
@@ -12006,7 +12006,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1983,
     "value": 2650
@@ -12017,7 +12017,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1984,
     "value": 1932
@@ -12028,7 +12028,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1985,
     "value": 2299
@@ -12039,7 +12039,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1986,
     "value": 3942
@@ -12050,7 +12050,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1987,
     "value": 6174
@@ -12061,7 +12061,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1988,
     "value": 2977
@@ -12072,7 +12072,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1989,
     "value": 3270
@@ -12083,7 +12083,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1990,
     "value": 2824
@@ -12094,7 +12094,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1991,
     "value": 3266
@@ -12105,7 +12105,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1992,
     "value": 2932
@@ -12116,7 +12116,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1993,
     "value": 3399
@@ -12127,7 +12127,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1994,
     "value": 4181
@@ -12138,7 +12138,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1995,
     "value": 3935
@@ -12149,7 +12149,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1996,
     "value": 2324
@@ -12160,7 +12160,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1997,
     "value": 1795
@@ -12171,7 +12171,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1998,
     "value": 1238
@@ -12182,7 +12182,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 1999,
     "value": 1366
@@ -12193,7 +12193,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2000,
     "value": 1308
@@ -12204,7 +12204,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2001,
     "value": 1707
@@ -12215,7 +12215,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2002,
     "value": 1479
@@ -12226,7 +12226,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2003,
     "value": 1410
@@ -12237,7 +12237,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2004,
     "value": 1341
@@ -12248,7 +12248,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2005,
     "value": 1215
@@ -12259,7 +12259,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2006,
     "value": 1286
@@ -12270,7 +12270,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2007,
     "value": 1277
@@ -12281,7 +12281,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2008,
     "value": 1137
@@ -12292,7 +12292,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2009,
     "value": 1180
@@ -12303,7 +12303,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2010,
     "value": 953
@@ -12314,7 +12314,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2011,
     "value": 804
@@ -12325,7 +12325,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2012,
     "value": 676
@@ -12336,7 +12336,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 5,
     "lon": -59,
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://flagcdn.com/w20/gy.png",
     "capital": "Georgetown",
     "year": 2013,
     "value": 656
@@ -12347,7 +12347,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1980,
     "value": 1666
@@ -12358,7 +12358,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1981,
     "value": 3692
@@ -12369,7 +12369,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1982,
     "value": 3498
@@ -12380,7 +12380,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1983,
     "value": 2860
@@ -12391,7 +12391,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1984,
     "value": 1418
@@ -12402,7 +12402,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1985,
     "value": 1321
@@ -12413,7 +12413,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1986,
     "value": 1753
@@ -12424,7 +12424,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1987,
     "value": 2132
@@ -12435,7 +12435,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1988,
     "value": 1829
@@ -12446,7 +12446,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1989,
     "value": 2377
@@ -12457,7 +12457,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1990,
     "value": 2379
@@ -12468,7 +12468,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1991,
     "value": 2829
@@ -12479,7 +12479,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1992,
     "value": 2399
@@ -12490,7 +12490,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1993,
     "value": 3655
@@ -12501,7 +12501,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1994,
     "value": 2100
@@ -12512,7 +12512,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1995,
     "value": 2014
@@ -12523,7 +12523,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1996,
     "value": 1955
@@ -12534,7 +12534,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1997,
     "value": 1645
@@ -12545,7 +12545,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1998,
     "value": 1295
@@ -12556,7 +12556,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 1999,
     "value": 1439
@@ -12567,7 +12567,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2000,
     "value": 1631
@@ -12578,7 +12578,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2001,
     "value": 2433
@@ -12589,7 +12589,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2002,
     "value": 2174
@@ -12600,7 +12600,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2003,
     "value": 1930
@@ -12611,7 +12611,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2004,
     "value": 1652
@@ -12622,7 +12622,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2005,
     "value": 1682
@@ -12633,7 +12633,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2006,
     "value": 1619
@@ -12644,7 +12644,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2007,
     "value": 1598
@@ -12655,7 +12655,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2008,
     "value": 2491
@@ -12666,7 +12666,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2009,
     "value": 2080
@@ -12677,7 +12677,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2010,
     "value": 4744
@@ -12688,7 +12688,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2011,
     "value": 6503
@@ -12699,7 +12699,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2012,
     "value": 5868
@@ -12710,7 +12710,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 19,
     "lon": -72.41666666,
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://flagcdn.com/w20/ht.png",
     "capital": "Port-au-Prince",
     "year": 2013,
     "value": 4152
@@ -12721,7 +12721,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1980,
     "value": 8880
@@ -12732,7 +12732,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1981,
     "value": 8670
@@ -12743,7 +12743,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1982,
     "value": 8147
@@ -12754,7 +12754,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1983,
     "value": 7338
@@ -12765,7 +12765,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1984,
     "value": 5704
@@ -12776,7 +12776,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1985,
     "value": 4211
@@ -12787,7 +12787,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1986,
     "value": 7150
@@ -12798,7 +12798,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1987,
     "value": 10189
@@ -12809,7 +12809,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1988,
     "value": 11522
@@ -12820,7 +12820,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1989,
     "value": 10343
@@ -12831,7 +12831,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1990,
     "value": 12041
@@ -12842,7 +12842,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1991,
     "value": 13734
@@ -12853,7 +12853,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1992,
     "value": 13673
@@ -12864,7 +12864,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1993,
     "value": 21496
@@ -12875,7 +12875,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1994,
     "value": 18620
@@ -12886,7 +12886,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1995,
     "value": 18489
@@ -12897,7 +12897,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1996,
     "value": 23859
@@ -12908,7 +12908,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1997,
     "value": 22268
@@ -12919,7 +12919,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1998,
     "value": 17241
@@ -12930,7 +12930,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 1999,
     "value": 18974
@@ -12941,7 +12941,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2000,
     "value": 28572
@@ -12952,7 +12952,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2001,
     "value": 31223
@@ -12963,7 +12963,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2002,
     "value": 31889
@@ -12974,7 +12974,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2003,
     "value": 27155
@@ -12985,7 +12985,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2004,
     "value": 28235
@@ -12996,7 +12996,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2005,
     "value": 36210
@@ -13007,7 +13007,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2006,
     "value": 33848
@@ -13018,7 +13018,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2007,
     "value": 28742
@@ -13029,7 +13029,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2008,
     "value": 28261
@@ -13040,7 +13040,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2009,
     "value": 29456
@@ -13051,7 +13051,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2010,
     "value": 34235
@@ -13062,7 +13062,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2011,
     "value": 27509
@@ -13073,7 +13073,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2012,
     "value": 30933
@@ -13084,7 +13084,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "capital": "New Delhi",
     "year": 2013,
     "value": 33087
@@ -13095,7 +13095,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1980,
     "value": 1172
@@ -13106,7 +13106,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1981,
     "value": 1429
@@ -13117,7 +13117,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1982,
     "value": 1822
@@ -13128,7 +13128,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1983,
     "value": 1592
@@ -13139,7 +13139,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1984,
     "value": 1977
@@ -13150,7 +13150,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1985,
     "value": 1648
@@ -13161,7 +13161,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1986,
     "value": 1794
@@ -13172,7 +13172,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1987,
     "value": 2989
@@ -13183,7 +13183,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1988,
     "value": 3273
@@ -13194,7 +13194,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1989,
     "value": 3781
@@ -13205,7 +13205,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1990,
     "value": 3655
@@ -13216,7 +13216,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1991,
     "value": 6250
@@ -13227,7 +13227,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1992,
     "value": 6814
@@ -13238,7 +13238,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1993,
     "value": 3959
@@ -13249,7 +13249,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1994,
     "value": 2785
@@ -13260,7 +13260,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1995,
     "value": 3956
@@ -13271,7 +13271,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1996,
     "value": 6205
@@ -13282,7 +13282,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1997,
     "value": 7982
@@ -13293,7 +13293,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1998,
     "value": 7057
@@ -13304,7 +13304,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 1999,
     "value": 6208
@@ -13315,7 +13315,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2000,
     "value": 5884
@@ -13326,7 +13326,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2001,
     "value": 6169
@@ -13337,7 +13337,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2002,
     "value": 8129
@@ -13348,7 +13348,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2003,
     "value": 5918
@@ -13359,7 +13359,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2004,
     "value": 6348
@@ -13370,7 +13370,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2005,
     "value": 5837
@@ -13381,7 +13381,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2006,
     "value": 7480
@@ -13392,7 +13392,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2007,
     "value": 6974
@@ -13403,7 +13403,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2008,
     "value": 6475
@@ -13414,7 +13414,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2009,
     "value": 6580
@@ -13425,7 +13425,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2010,
     "value": 7477
@@ -13436,7 +13436,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2011,
     "value": 7479
@@ -13447,7 +13447,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2012,
     "value": 7534
@@ -13458,7 +13458,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "capital": "Tehran",
     "year": 2013,
     "value": 11291
@@ -13469,7 +13469,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1980,
     "value": 3198
@@ -13480,7 +13480,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1981,
     "value": 2634
@@ -13491,7 +13491,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1982,
     "value": 2661
@@ -13502,7 +13502,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1983,
     "value": 2455
@@ -13513,7 +13513,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1984,
     "value": 2508
@@ -13524,7 +13524,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1985,
     "value": 2938
@@ -13535,7 +13535,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1986,
     "value": 4649
@@ -13546,7 +13546,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1987,
     "value": 5415
@@ -13557,7 +13557,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1988,
     "value": 3924
@@ -13568,7 +13568,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1989,
     "value": 3946
@@ -13579,7 +13579,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1990,
     "value": 4945
@@ -13590,7 +13590,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1991,
     "value": 5056
@@ -13601,7 +13601,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1992,
     "value": 5991
@@ -13612,7 +13612,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1993,
     "value": 6065
@@ -13623,7 +13623,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1994,
     "value": 3913
@@ -13634,7 +13634,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1995,
     "value": 3619
@@ -13645,7 +13645,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1996,
     "value": 3282
@@ -13656,7 +13656,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1997,
     "value": 2847
@@ -13667,7 +13667,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1998,
     "value": 2253
@@ -13678,7 +13678,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 1999,
     "value": 2358
@@ -13689,7 +13689,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2000,
     "value": 2482
@@ -13700,7 +13700,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2001,
     "value": 2838
@@ -13711,7 +13711,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2002,
     "value": 2524
@@ -13722,7 +13722,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2003,
     "value": 2054
@@ -13733,7 +13733,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2004,
     "value": 2237
@@ -13744,7 +13744,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2005,
     "value": 1945
@@ -13755,7 +13755,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2006,
     "value": 1722
@@ -13766,7 +13766,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2007,
     "value": 2141
@@ -13777,7 +13777,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2008,
     "value": 2334
@@ -13788,7 +13788,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2009,
     "value": 2456
@@ -13799,7 +13799,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2010,
     "value": 2321
@@ -13810,7 +13810,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2011,
     "value": 2059
@@ -13821,7 +13821,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2012,
     "value": 2182
@@ -13832,7 +13832,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "capital": "Kingston",
     "year": 2013,
     "value": 2479
@@ -13843,7 +13843,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1980,
     "value": 409
@@ -13854,7 +13854,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1981,
     "value": 394
@@ -13865,7 +13865,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1982,
     "value": 491
@@ -13876,7 +13876,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1983,
     "value": 490
@@ -13887,7 +13887,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1984,
     "value": 509
@@ -13898,7 +13898,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1985,
     "value": 425
@@ -13909,7 +13909,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1986,
     "value": 667
@@ -13920,7 +13920,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1987,
     "value": 813
@@ -13931,7 +13931,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1988,
     "value": 916
@@ -13942,7 +13942,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1989,
     "value": 1017
@@ -13953,7 +13953,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1990,
     "value": 1193
@@ -13964,7 +13964,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1991,
     "value": 1134
@@ -13975,7 +13975,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1992,
     "value": 1189
@@ -13986,7 +13986,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1993,
     "value": 1139
@@ -13997,7 +13997,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1994,
     "value": 776
@@ -14008,7 +14008,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1995,
     "value": 758
@@ -14019,7 +14019,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1996,
     "value": 1234
@@ -14030,7 +14030,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1997,
     "value": 1689
@@ -14041,7 +14041,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1998,
     "value": 1379
@@ -14052,7 +14052,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 1999,
     "value": 1679
@@ -14063,7 +14063,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2000,
     "value": 1662
@@ -14074,7 +14074,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2001,
     "value": 1939
@@ -14085,7 +14085,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2002,
     "value": 1894
@@ -14096,7 +14096,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2003,
     "value": 1754
@@ -14107,7 +14107,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2004,
     "value": 2259
@@ -14118,7 +14118,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2005,
     "value": 2837
@@ -14129,7 +14129,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2006,
     "value": 2844
@@ -14140,7 +14140,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2007,
     "value": 3239
@@ -14151,7 +14151,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2008,
     "value": 2856
@@ -14162,7 +14162,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2009,
     "value": 3092
@@ -14173,7 +14173,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2010,
     "value": 3865
@@ -14184,7 +14184,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2011,
     "value": 3947
@@ -14195,7 +14195,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2012,
     "value": 4227
@@ -14206,7 +14206,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 23,
     "lon": -102,
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://flagcdn.com/w20/mx.png",
     "capital": "Mexico City",
     "year": 2013,
     "value": 3996
@@ -14217,7 +14217,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1980,
     "value": 325
@@ -14228,7 +14228,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1981,
     "value": 471
@@ -14239,7 +14239,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1982,
     "value": 447
@@ -14250,7 +14250,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1983,
     "value": 335
@@ -14261,7 +14261,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1984,
     "value": 248
@@ -14272,7 +14272,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1985,
     "value": 328
@@ -14283,7 +14283,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1986,
     "value": 388
@@ -14294,7 +14294,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1987,
     "value": 505
@@ -14305,7 +14305,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1988,
     "value": 685
@@ -14316,7 +14316,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1989,
     "value": 1060
@@ -14327,7 +14327,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1990,
     "value": 1313
@@ -14338,7 +14338,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1991,
     "value": 1390
@@ -14349,7 +14349,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1992,
     "value": 1055
@@ -14360,7 +14360,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1993,
     "value": 1042
@@ -14371,7 +14371,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1994,
     "value": 660
@@ -14382,7 +14382,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1995,
     "value": 1069
@@ -14393,7 +14393,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1996,
     "value": 939
@@ -14404,7 +14404,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1997,
     "value": 1095
@@ -14415,7 +14415,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1998,
     "value": 1262
@@ -14426,7 +14426,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 1999,
     "value": 1870
@@ -14437,7 +14437,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2000,
     "value": 2664
@@ -14448,7 +14448,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2001,
     "value": 4067
@@ -14459,7 +14459,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2002,
     "value": 4174
@@ -14470,7 +14470,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2003,
     "value": 3369
@@ -14481,7 +14481,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2004,
     "value": 3686
@@ -14492,7 +14492,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2005,
     "value": 2939
@@ -14503,7 +14503,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2006,
     "value": 3322
@@ -14514,7 +14514,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2007,
     "value": 4021
@@ -14525,7 +14525,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2008,
     "value": 4226
@@ -14536,7 +14536,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2009,
     "value": 5532
@@ -14547,7 +14547,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2010,
     "value": 6242
@@ -14558,7 +14558,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2011,
     "value": 4399
@@ -14569,7 +14569,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2012,
     "value": 3878
@@ -14580,7 +14580,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": -5,
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://flagcdn.com/w20/ma.png",
     "capital": "Rabat",
     "year": 2013,
     "value": 3261
@@ -14591,7 +14591,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1980,
     "value": 602
@@ -14602,7 +14602,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1981,
     "value": 480
@@ -14613,7 +14613,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1982,
     "value": 364
@@ -14624,7 +14624,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1983,
     "value": 140
@@ -14635,7 +14635,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1984,
     "value": 164
@@ -14646,7 +14646,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1985,
     "value": 148
@@ -14657,7 +14657,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1986,
     "value": 176
@@ -14668,7 +14668,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1987,
     "value": 208
@@ -14679,7 +14679,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1988,
     "value": 200
@@ -14690,7 +14690,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1989,
     "value": 237
@@ -14701,7 +14701,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1990,
     "value": 270
@@ -14712,7 +14712,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1991,
     "value": 227
@@ -14723,7 +14723,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1992,
     "value": 341
@@ -14734,7 +14734,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1993,
     "value": 352
@@ -14745,7 +14745,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1994,
     "value": 234
@@ -14756,7 +14756,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1995,
     "value": 210
@@ -14767,7 +14767,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1996,
     "value": 219
@@ -14778,7 +14778,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1997,
     "value": 181
@@ -14789,7 +14789,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1998,
     "value": 146
@@ -14800,7 +14800,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 1999,
     "value": 164
@@ -14811,7 +14811,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2000,
     "value": 212
@@ -14822,7 +14822,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2001,
     "value": 360
@@ -14833,7 +14833,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2002,
     "value": 321
@@ -14844,7 +14844,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2003,
     "value": 345
@@ -14855,7 +14855,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2004,
     "value": 350
@@ -14866,7 +14866,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2005,
     "value": 370
@@ -14877,7 +14877,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2006,
     "value": 318
@@ -14888,7 +14888,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2007,
     "value": 350
@@ -14899,7 +14899,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2008,
     "value": 480
@@ -14910,7 +14910,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2009,
     "value": 520
@@ -14921,7 +14921,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2010,
     "value": 490
@@ -14932,7 +14932,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2011,
     "value": 375
@@ -14943,7 +14943,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2012,
     "value": 417
@@ -14954,7 +14954,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": -41,
     "lon": 174,
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://flagcdn.com/w20/nz.png",
     "capital": "Wellington",
     "year": 2013,
     "value": 415
@@ -14965,7 +14965,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1980,
     "value": 978
@@ -14976,7 +14976,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1981,
     "value": 972
@@ -14987,7 +14987,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1982,
     "value": 1201
@@ -14998,7 +14998,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1983,
     "value": 900
@@ -15009,7 +15009,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1984,
     "value": 668
@@ -15020,7 +15020,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1985,
     "value": 514
@@ -15031,7 +15031,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1986,
     "value": 691
@@ -15042,7 +15042,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1987,
     "value": 1072
@@ -15053,7 +15053,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1988,
     "value": 1334
@@ -15064,7 +15064,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1989,
     "value": 2261
@@ -15075,7 +15075,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1990,
     "value": 2470
@@ -15086,7 +15086,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1991,
     "value": 3079
@@ -15097,7 +15097,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1992,
     "value": 4071
@@ -15108,7 +15108,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1993,
     "value": 4777
@@ -15119,7 +15119,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1994,
     "value": 4666
@@ -15130,7 +15130,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1995,
     "value": 4994
@@ -15141,7 +15141,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1996,
     "value": 9125
@@ -15152,7 +15152,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1997,
     "value": 13073
@@ -15163,7 +15163,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1998,
     "value": 9068
@@ -15174,7 +15174,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 1999,
     "value": 9979
@@ -15185,7 +15185,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2000,
     "value": 15400
@@ -15196,7 +15196,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2001,
     "value": 16708
@@ -15207,7 +15207,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2002,
     "value": 15110
@@ -15218,7 +15218,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2003,
     "value": 13205
@@ -15229,7 +15229,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2004,
     "value": 13399
@@ -15240,7 +15240,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2005,
     "value": 14314
@@ -15251,7 +15251,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2006,
     "value": 13127
@@ -15262,7 +15262,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2007,
     "value": 10124
@@ -15273,7 +15273,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2008,
     "value": 8994
@@ -15284,7 +15284,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2009,
     "value": 7217
@@ -15295,7 +15295,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2010,
     "value": 6811
@@ -15306,7 +15306,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2011,
     "value": 7468
@@ -15317,7 +15317,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2012,
     "value": 11227
@@ -15328,7 +15328,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "capital": "Islamabad",
     "year": 2013,
     "value": 12603
@@ -15339,7 +15339,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1980,
     "value": 6051
@@ -15350,7 +15350,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1981,
     "value": 5921
@@ -15361,7 +15361,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1982,
     "value": 5249
@@ -15372,7 +15372,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1983,
     "value": 4562
@@ -15383,7 +15383,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1984,
     "value": 3801
@@ -15394,7 +15394,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1985,
     "value": 3150
@@ -15405,7 +15405,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1986,
     "value": 4166
@@ -15416,7 +15416,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1987,
     "value": 7360
@@ -15427,7 +15427,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1988,
     "value": 8639
@@ -15438,7 +15438,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1989,
     "value": 11865
@@ -15449,7 +15449,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1990,
     "value": 12509
@@ -15460,7 +15460,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1991,
     "value": 12718
@@ -15471,7 +15471,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1992,
     "value": 13670
@@ -15482,7 +15482,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1993,
     "value": 20479
@@ -15493,7 +15493,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1994,
     "value": 19532
@@ -15504,7 +15504,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1995,
     "value": 15864
@@ -15515,7 +15515,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1996,
     "value": 13692
@@ -15526,7 +15526,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1997,
     "value": 11549
@@ -15537,7 +15537,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1998,
     "value": 8735
@@ -15548,7 +15548,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 1999,
     "value": 9734
@@ -15559,7 +15559,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2000,
     "value": 10763
@@ -15570,7 +15570,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2001,
     "value": 13836
@@ -15581,7 +15581,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2002,
     "value": 11707
@@ -15592,7 +15592,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2003,
     "value": 12758
@@ -15603,7 +15603,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2004,
     "value": 14004
@@ -15614,7 +15614,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2005,
     "value": 18139
@@ -15625,7 +15625,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2006,
     "value": 18400
@@ -15636,7 +15636,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2007,
     "value": 19837
@@ -15647,7 +15647,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2008,
     "value": 24887
@@ -15658,7 +15658,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2009,
     "value": 28573
@@ -15669,7 +15669,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2010,
     "value": 38617
@@ -15680,7 +15680,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2011,
     "value": 36765
@@ -15691,7 +15691,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2012,
     "value": 34315
@@ -15702,7 +15702,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "capital": "Manila",
     "year": 2013,
     "value": 29544
@@ -15713,7 +15713,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1980,
     "value": 863
@@ -15724,7 +15724,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1981,
     "value": 2930
@@ -15735,7 +15735,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1982,
     "value": 5881
@@ -15746,7 +15746,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1983,
     "value": 4546
@@ -15757,7 +15757,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1984,
     "value": 3588
@@ -15768,7 +15768,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1985,
     "value": 2819
@@ -15779,7 +15779,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1986,
     "value": 4808
@@ -15790,7 +15790,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1987,
     "value": 6931
@@ -15801,7 +15801,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1988,
     "value": 9211
@@ -15812,7 +15812,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1989,
     "value": 16025
@@ -15823,7 +15823,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1990,
     "value": 17040
@@ -15834,7 +15834,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1991,
     "value": 16028
@@ -15845,7 +15845,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1992,
     "value": 12145
@@ -15856,7 +15856,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1993,
     "value": 6960
@@ -15867,7 +15867,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1994,
     "value": 3550
@@ -15878,7 +15878,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1995,
     "value": 2405
@@ -15889,7 +15889,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1996,
     "value": 2136
@@ -15900,7 +15900,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1997,
     "value": 1758
@@ -15911,7 +15911,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1998,
     "value": 1488
@@ -15922,7 +15922,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 1999,
     "value": 1354
@@ -15933,7 +15933,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2000,
     "value": 1471
@@ -15944,7 +15944,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2001,
     "value": 1601
@@ -15955,7 +15955,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2002,
     "value": 1447
@@ -15966,7 +15966,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2003,
     "value": 1394
@@ -15977,7 +15977,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2004,
     "value": 1533
@@ -15988,7 +15988,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2005,
     "value": 1405
@@ -15999,7 +15999,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2006,
     "value": 1263
@@ -16010,7 +16010,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2007,
     "value": 1235
@@ -16021,7 +16021,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2008,
     "value": 1267
@@ -16032,7 +16032,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2009,
     "value": 1013
@@ -16043,7 +16043,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2010,
     "value": 795
@@ -16054,7 +16054,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2011,
     "value": 720
@@ -16065,7 +16065,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2012,
     "value": 779
@@ -16076,7 +16076,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "capital": "Warsaw",
     "year": 2013,
     "value": 852
@@ -16087,7 +16087,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1980,
     "value": 4473
@@ -16098,7 +16098,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1981,
     "value": 3486
@@ -16109,7 +16109,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1982,
     "value": 2432
@@ -16120,7 +16120,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1983,
     "value": 1433
@@ -16131,7 +16131,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1984,
     "value": 1398
@@ -16142,7 +16142,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1985,
     "value": 1451
@@ -16153,7 +16153,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1986,
     "value": 2617
@@ -16164,7 +16164,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1987,
     "value": 7684
@@ -16175,7 +16175,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1988,
     "value": 6888
@@ -16186,7 +16186,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1989,
     "value": 8570
@@ -16197,7 +16197,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1990,
     "value": 8452
@@ -16208,7 +16208,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1991,
     "value": 6286
@@ -16219,7 +16219,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1992,
     "value": 3328
@@ -16230,7 +16230,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1993,
     "value": 2347
@@ -16241,7 +16241,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1994,
     "value": 1599
@@ -16252,7 +16252,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1995,
     "value": 1405
@@ -16263,7 +16263,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1996,
     "value": 1237
@@ -16274,7 +16274,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1997,
     "value": 1167
@@ -16285,7 +16285,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1998,
     "value": 625
@@ -16296,7 +16296,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 1999,
     "value": 458
@@ -16307,7 +16307,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2000,
     "value": 469
@@ -16318,7 +16318,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2001,
     "value": 531
@@ -16329,7 +16329,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2002,
     "value": 364
@@ -16340,7 +16340,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2003,
     "value": 329
@@ -16351,7 +16351,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2004,
     "value": 336
@@ -16362,7 +16362,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2005,
     "value": 338
@@ -16373,7 +16373,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2006,
     "value": 424
@@ -16384,7 +16384,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2007,
     "value": 405
@@ -16395,7 +16395,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2008,
     "value": 665
@@ -16406,7 +16406,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2009,
     "value": 623
@@ -16417,7 +16417,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2010,
     "value": 629
@@ -16428,7 +16428,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2011,
     "value": 528
@@ -16439,7 +16439,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2012,
     "value": 560
@@ -16450,7 +16450,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "capital": "Lisbon",
     "year": 2013,
     "value": 630
@@ -16461,7 +16461,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1980,
     "value": 375
@@ -16472,7 +16472,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1981,
     "value": 438
@@ -16483,7 +16483,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1982,
     "value": 583
@@ -16494,7 +16494,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1983,
     "value": 543
@@ -16505,7 +16505,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1984,
     "value": 524
@@ -16516,7 +16516,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1985,
     "value": 604
@@ -16527,7 +16527,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1986,
     "value": 656
@@ -16538,7 +16538,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1987,
     "value": 1202
@@ -16549,7 +16549,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1988,
     "value": 1106
@@ -16560,7 +16560,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1989,
     "value": 1582
@@ -16571,7 +16571,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1990,
     "value": 2252
@@ -16582,7 +16582,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1991,
     "value": 2337
@@ -16593,7 +16593,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1992,
     "value": 3147
@@ -16604,7 +16604,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1993,
     "value": 3676
@@ -16615,7 +16615,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1994,
     "value": 3495
@@ -16626,7 +16626,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1995,
     "value": 4279
@@ -16637,7 +16637,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1996,
     "value": 3909
@@ -16648,7 +16648,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1997,
     "value": 3993
@@ -16659,7 +16659,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1998,
     "value": 3033
@@ -16670,7 +16670,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 1999,
     "value": 3538
@@ -16681,7 +16681,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2000,
     "value": 4539
@@ -16692,7 +16692,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2001,
     "value": 5652
@@ -16703,7 +16703,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2002,
     "value": 5765
@@ -16714,7 +16714,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2003,
     "value": 5541
@@ -16725,7 +16725,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2004,
     "value": 5755
@@ -16736,7 +16736,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2005,
     "value": 5048
@@ -16747,7 +16747,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2006,
     "value": 4468
@@ -16758,7 +16758,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2007,
     "value": 3834
@@ -16769,7 +16769,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2008,
     "value": 2837
@@ -16780,7 +16780,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2009,
     "value": 2076
@@ -16791,7 +16791,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2010,
     "value": 1922
@@ -16802,7 +16802,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2011,
     "value": 1776
@@ -16813,7 +16813,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2012,
     "value": 1588
@@ -16824,7 +16824,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "capital": "Bucharest",
     "year": 2013,
     "value": 1512
@@ -16835,7 +16835,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1980,
     "value": 3
@@ -16846,7 +16846,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1981,
     "value": 7
@@ -16857,7 +16857,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1982,
     "value": 4
@@ -16868,7 +16868,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1983,
     "value": 1
@@ -16879,7 +16879,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1984,
     "value": 3
@@ -16890,7 +16890,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1985,
     "value": 0
@@ -16901,7 +16901,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1986,
     "value": 3
@@ -16912,7 +16912,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1987,
     "value": 0
@@ -16923,7 +16923,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1988,
     "value": 1
@@ -16934,7 +16934,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1989,
     "value": 1
@@ -16945,7 +16945,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1990,
     "value": 2
@@ -16956,7 +16956,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1991,
     "value": 3
@@ -16967,7 +16967,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1992,
     "value": 1
@@ -16978,7 +16978,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1993,
     "value": 5
@@ -16989,7 +16989,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1994,
     "value": 3
@@ -17000,7 +17000,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1995,
     "value": 2
@@ -17011,7 +17011,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1996,
     "value": 2
@@ -17022,7 +17022,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1997,
     "value": 3
@@ -17033,7 +17033,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1998,
     "value": 4
@@ -17044,7 +17044,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 1999,
     "value": 0
@@ -17055,7 +17055,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2000,
     "value": 1
@@ -17066,7 +17066,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2001,
     "value": 2
@@ -17077,7 +17077,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2002,
     "value": 2
@@ -17088,7 +17088,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2003,
     "value": 3
@@ -17099,7 +17099,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2004,
     "value": 3
@@ -17110,7 +17110,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2005,
     "value": 2
@@ -17121,7 +17121,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2006,
     "value": 0
@@ -17132,7 +17132,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2007,
     "value": 1
@@ -17143,7 +17143,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2008,
     "value": 4
@@ -17154,7 +17154,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2009,
     "value": 2
@@ -17165,7 +17165,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2010,
     "value": 5
@@ -17176,7 +17176,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2011,
     "value": 3
@@ -17187,7 +17187,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2012,
     "value": 2
@@ -17198,7 +17198,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -13.58333333,
     "lon": -172.3333333,
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://flagcdn.com/w20/ws.png",
     "capital": "Apia",
     "year": 2013,
     "value": 0
@@ -17209,7 +17209,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1980,
     "value": 7
@@ -17220,7 +17220,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1981,
     "value": 10
@@ -17231,7 +17231,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1982,
     "value": 7
@@ -17242,7 +17242,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1983,
     "value": 12
@@ -17253,7 +17253,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1984,
     "value": 14
@@ -17264,7 +17264,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1985,
     "value": 10
@@ -17275,7 +17275,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1986,
     "value": 37
@@ -17286,7 +17286,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1987,
     "value": 190
@@ -17297,7 +17297,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1988,
     "value": 217
@@ -17308,7 +17308,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1989,
     "value": 401
@@ -17319,7 +17319,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1990,
     "value": 1059
@@ -17330,7 +17330,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1991,
     "value": 3266
@@ -17341,7 +17341,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1992,
     "value": 5794
@@ -17352,7 +17352,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1993,
     "value": 3734
@@ -17363,7 +17363,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1994,
     "value": 1576
@@ -17374,7 +17374,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1995,
     "value": 2000
@@ -17385,7 +17385,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1996,
     "value": 1541
@@ -17396,7 +17396,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1997,
     "value": 1084
@@ -17407,7 +17407,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1998,
     "value": 1397
@@ -17418,7 +17418,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 1999,
     "value": 1652
@@ -17429,7 +17429,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2000,
     "value": 1568
@@ -17440,7 +17440,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2001,
     "value": 1155
@@ -17451,7 +17451,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2002,
     "value": 730
@@ -17462,7 +17462,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2003,
     "value": 957
@@ -17473,7 +17473,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2004,
     "value": 1364
@@ -17484,7 +17484,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2005,
     "value": 1198
@@ -17495,7 +17495,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2006,
     "value": 1061
@@ -17506,7 +17506,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2007,
     "value": 1166
@@ -17517,7 +17517,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2008,
     "value": 1015
@@ -17528,7 +17528,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2009,
     "value": 1214
@@ -17539,7 +17539,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2010,
     "value": 1528
@@ -17550,7 +17550,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2011,
     "value": 1535
@@ -17561,7 +17561,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2012,
     "value": 1582
@@ -17572,7 +17572,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": 10,
     "lon": 49,
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://flagcdn.com/w20/so.png",
     "capital": "Mogadishu",
     "year": 2013,
     "value": 2028
@@ -17583,7 +17583,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1980,
     "value": 1026
@@ -17594,7 +17594,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1981,
     "value": 1118
@@ -17605,7 +17605,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1982,
     "value": 781
@@ -17616,7 +17616,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1983,
     "value": 379
@@ -17627,7 +17627,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1984,
     "value": 271
@@ -17638,7 +17638,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1985,
     "value": 310
@@ -17649,7 +17649,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1986,
     "value": 718
@@ -17660,7 +17660,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1987,
     "value": 1470
@@ -17671,7 +17671,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1988,
     "value": 1305
@@ -17682,7 +17682,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1989,
     "value": 1301
@@ -17693,7 +17693,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1990,
     "value": 902
@@ -17704,7 +17704,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1991,
     "value": 823
@@ -17715,7 +17715,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1992,
     "value": 1059
@@ -17726,7 +17726,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1993,
     "value": 1549
@@ -17737,7 +17737,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1994,
     "value": 2366
@@ -17748,7 +17748,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1995,
     "value": 1455
@@ -17759,7 +17759,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1996,
     "value": 1308
@@ -17770,7 +17770,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1997,
     "value": 1729
@@ -17781,7 +17781,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1998,
     "value": 1350
@@ -17792,7 +17792,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 1999,
     "value": 1478
@@ -17803,7 +17803,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2000,
     "value": 1763
@@ -17814,7 +17814,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2001,
     "value": 1899
@@ -17825,7 +17825,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2002,
     "value": 1498
@@ -17836,7 +17836,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2003,
     "value": 1245
@@ -17847,7 +17847,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2004,
     "value": 1175
@@ -17858,7 +17858,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2005,
     "value": 988
@@ -17869,7 +17869,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2006,
     "value": 1111
@@ -17880,7 +17880,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2007,
     "value": 1200
@@ -17891,7 +17891,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2008,
     "value": 1123
@@ -17902,7 +17902,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2009,
     "value": 1188
@@ -17913,7 +17913,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2010,
     "value": 1238
@@ -17924,7 +17924,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2011,
     "value": 959
@@ -17935,7 +17935,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2012,
     "value": 1243
@@ -17946,7 +17946,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -29,
     "lon": 24,
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://flagcdn.com/w20/za.png",
     "capital": "Pretoria",
     "year": 2013,
     "value": 1240
@@ -17957,7 +17957,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1980,
     "value": 2
@@ -17968,7 +17968,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1981,
     "value": 4
@@ -17979,7 +17979,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1982,
     "value": 7
@@ -17990,7 +17990,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1983,
     "value": 1
@@ -18001,7 +18001,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1984,
     "value": 2
@@ -18012,7 +18012,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1985,
     "value": 5
@@ -18023,7 +18023,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1986,
     "value": 7
@@ -18034,7 +18034,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1987,
     "value": 0
@@ -18045,7 +18045,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1988,
     "value": 4
@@ -18056,7 +18056,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1989,
     "value": 9
@@ -18067,7 +18067,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1990,
     "value": 7
@@ -18078,7 +18078,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1991,
     "value": 4
@@ -18089,7 +18089,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1992,
     "value": 4
@@ -18100,7 +18100,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1993,
     "value": 5
@@ -18111,7 +18111,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1994,
     "value": 7
@@ -18122,7 +18122,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1995,
     "value": 9
@@ -18133,7 +18133,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1996,
     "value": 8
@@ -18144,7 +18144,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1997,
     "value": 8
@@ -18155,7 +18155,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1998,
     "value": 2
@@ -18166,7 +18166,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 1999,
     "value": 6
@@ -18177,7 +18177,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2000,
     "value": 0
@@ -18188,7 +18188,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2001,
     "value": 6
@@ -18199,7 +18199,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2002,
     "value": 2
@@ -18210,7 +18210,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2003,
     "value": 5
@@ -18221,7 +18221,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2004,
     "value": 5
@@ -18232,7 +18232,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2005,
     "value": 2
@@ -18243,7 +18243,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2006,
     "value": 0
@@ -18254,7 +18254,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2007,
     "value": 1
@@ -18265,7 +18265,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2008,
     "value": 0
@@ -18276,7 +18276,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2009,
     "value": 5
@@ -18287,7 +18287,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2010,
     "value": 5
@@ -18298,7 +18298,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2011,
     "value": 2
@@ -18309,7 +18309,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2012,
     "value": 3
@@ -18320,7 +18320,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -20,
     "lon": -175,
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://flagcdn.com/w20/to.png",
     "capital": "Nuku'alofa",
     "year": 2013,
     "value": 5
@@ -18331,7 +18331,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1980,
     "value": 22045
@@ -18342,7 +18342,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1981,
     "value": 24796
@@ -18353,7 +18353,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1982,
     "value": 20620
@@ -18364,7 +18364,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1983,
     "value": 10015
@@ -18375,7 +18375,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1984,
     "value": 10170
@@ -18386,7 +18386,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1985,
     "value": 9564
@@ -18397,7 +18397,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1986,
     "value": 9470
@@ -18408,7 +18408,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1987,
     "value": 21337
@@ -18419,7 +18419,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1988,
     "value": 27359
@@ -18430,7 +18430,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1989,
     "value": 23795
@@ -18441,7 +18441,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1990,
     "value": 31668
@@ -18452,7 +18452,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1991,
     "value": 23380
@@ -18463,7 +18463,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1992,
     "value": 34123
@@ -18474,7 +18474,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1993,
     "value": 33720
@@ -18485,7 +18485,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1994,
     "value": 39231
@@ -18496,7 +18496,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1995,
     "value": 30145
@@ -18507,7 +18507,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1996,
     "value": 29322
@@ -18518,7 +18518,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1997,
     "value": 22965
@@ -18529,7 +18529,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1998,
     "value": 10367
@@ -18540,7 +18540,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 1999,
     "value": 7045
@@ -18551,7 +18551,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2000,
     "value": 8840
@@ -18562,7 +18562,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2001,
     "value": 11728
@@ -18573,7 +18573,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2002,
     "value": 8046
@@ -18584,7 +18584,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2003,
     "value": 6797
@@ -18595,7 +18595,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2004,
     "value": 7533
@@ -18606,7 +18606,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2005,
     "value": 7258
@@ -18617,7 +18617,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2006,
     "value": 7140
@@ -18628,7 +18628,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2007,
     "value": 8216
@@ -18639,7 +18639,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2008,
     "value": 8979
@@ -18650,7 +18650,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2009,
     "value": 8876
@@ -18661,7 +18661,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2010,
     "value": 8724
@@ -18672,7 +18672,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2011,
     "value": 6204
@@ -18683,7 +18683,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2012,
     "value": 6195
@@ -18694,7 +18694,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/w20/gb.png",
     "capital": "London",
     "year": 2013,
     "value": 5827
@@ -18705,7 +18705,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1980,
     "value": 701
@@ -18716,7 +18716,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1981,
     "value": 756
@@ -18727,7 +18727,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1982,
     "value": 598
@@ -18738,7 +18738,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1983,
     "value": 309
@@ -18749,7 +18749,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1984,
     "value": 246
@@ -18760,7 +18760,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1985,
     "value": 198
@@ -18771,7 +18771,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1986,
     "value": 248
@@ -18782,7 +18782,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1987,
     "value": 422
@@ -18793,7 +18793,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1988,
     "value": 324
@@ -18804,7 +18804,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1989,
     "value": 494
@@ -18815,7 +18815,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1990,
     "value": 379
@@ -18826,7 +18826,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1991,
     "value": 506
@@ -18837,7 +18837,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1992,
     "value": 605
@@ -18848,7 +18848,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1993,
     "value": 907
@@ -18859,7 +18859,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1994,
     "value": 956
@@ -18870,7 +18870,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1995,
     "value": 826
@@ -18881,7 +18881,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1996,
     "value": 994
@@ -18892,7 +18892,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1997,
     "value": 924
@@ -18903,7 +18903,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1998,
     "value": 897
@@ -18914,7 +18914,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 1999,
     "value": 1083
@@ -18925,7 +18925,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2000,
     "value": 1010
@@ -18936,7 +18936,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2001,
     "value": 1092
@@ -18947,7 +18947,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2002,
     "value": 806
@@ -18958,7 +18958,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2003,
     "value": 817
@@ -18969,7 +18969,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2004,
     "value": 973
@@ -18980,7 +18980,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2005,
     "value": 1067
@@ -18991,7 +18991,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2006,
     "value": 1212
@@ -19002,7 +19002,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2007,
     "value": 1250
@@ -19013,7 +19013,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2008,
     "value": 1284
@@ -19024,7 +19024,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2009,
     "value": 1194
@@ -19035,7 +19035,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2010,
     "value": 1168
@@ -19046,7 +19046,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2011,
     "value": 1265
@@ -19057,7 +19057,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2012,
     "value": 1214
@@ -19068,7 +19068,7 @@ var top5countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "capital": "Tokyo",
     "year": 2013,
     "value": 982
@@ -19079,7 +19079,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1980,
     "value": 1
@@ -19090,7 +19090,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1981,
     "value": 0
@@ -19101,7 +19101,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1982,
     "value": 0
@@ -19112,7 +19112,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1983,
     "value": 0
@@ -19123,7 +19123,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1984,
     "value": 0
@@ -19134,7 +19134,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1985,
     "value": 0
@@ -19145,7 +19145,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1986,
     "value": 0
@@ -19156,7 +19156,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1987,
     "value": 0
@@ -19167,7 +19167,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1988,
     "value": 1
@@ -19178,7 +19178,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1989,
     "value": 0
@@ -19189,7 +19189,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1990,
     "value": 0
@@ -19200,7 +19200,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1991,
     "value": 0
@@ -19211,7 +19211,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1992,
     "value": 0
@@ -19222,7 +19222,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1993,
     "value": 0
@@ -19233,7 +19233,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1994,
     "value": 0
@@ -19244,7 +19244,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1995,
     "value": 0
@@ -19255,7 +19255,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1996,
     "value": 0
@@ -19266,7 +19266,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1997,
     "value": 0
@@ -19277,7 +19277,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1998,
     "value": 0
@@ -19288,7 +19288,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 1999,
     "value": 1
@@ -19299,7 +19299,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2000,
     "value": 1
@@ -19310,7 +19310,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2001,
     "value": 3
@@ -19321,7 +19321,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2002,
     "value": 2
@@ -19332,7 +19332,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2003,
     "value": 4
@@ -19343,7 +19343,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2004,
     "value": 1
@@ -19354,7 +19354,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2005,
     "value": 1
@@ -19365,7 +19365,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2006,
     "value": 1
@@ -19376,7 +19376,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2007,
     "value": 0
@@ -19387,7 +19387,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2008,
     "value": 0
@@ -19398,7 +19398,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2009,
     "value": 1
@@ -19409,7 +19409,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2010,
     "value": 0
@@ -19420,7 +19420,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2011,
     "value": 0
@@ -19431,7 +19431,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2012,
     "value": 0
@@ -19442,7 +19442,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -0.53333333,
     "lon": 166.9166667,
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://flagcdn.com/w20/nr.png",
     "capital": "Yaren",
     "year": 2013,
     "value": 1
@@ -19453,7 +19453,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1980,
     "value": 0
@@ -19464,7 +19464,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1981,
     "value": 2
@@ -19475,7 +19475,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1982,
     "value": 2
@@ -19486,7 +19486,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1983,
     "value": 4
@@ -19497,7 +19497,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1984,
     "value": 2
@@ -19508,7 +19508,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1985,
     "value": 2
@@ -19519,7 +19519,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1986,
     "value": 1
@@ -19530,7 +19530,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1987,
     "value": 1
@@ -19541,7 +19541,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1988,
     "value": 3
@@ -19552,7 +19552,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1989,
     "value": 0
@@ -19563,7 +19563,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1990,
     "value": 1
@@ -19574,7 +19574,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1991,
     "value": 2
@@ -19585,7 +19585,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1992,
     "value": 4
@@ -19596,7 +19596,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1993,
     "value": 0
@@ -19607,7 +19607,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1994,
     "value": 5
@@ -19618,7 +19618,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1995,
     "value": 1
@@ -19629,7 +19629,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1996,
     "value": 2
@@ -19640,7 +19640,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1997,
     "value": 0
@@ -19651,7 +19651,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1998,
     "value": 0
@@ -19662,7 +19662,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 1999,
     "value": 1
@@ -19673,7 +19673,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2000,
     "value": 4
@@ -19684,7 +19684,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2001,
     "value": 2
@@ -19695,7 +19695,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2002,
     "value": 0
@@ -19706,7 +19706,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2003,
     "value": 4
@@ -19717,7 +19717,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2004,
     "value": 1
@@ -19728,7 +19728,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2005,
     "value": 1
@@ -19739,7 +19739,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2006,
     "value": 0
@@ -19750,7 +19750,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2007,
     "value": 0
@@ -19761,7 +19761,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2008,
     "value": 9
@@ -19772,7 +19772,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2009,
     "value": 1
@@ -19783,7 +19783,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2010,
     "value": 3
@@ -19794,7 +19794,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2011,
     "value": 0
@@ -19805,7 +19805,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2012,
     "value": 3
@@ -19816,7 +19816,7 @@ var top5countries = [
     "devname": "Developing regions",
     "lat": -6,
     "lon": 147,
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://flagcdn.com/w20/pg.png",
     "capital": "Port Moresby",
     "year": 2013,
     "value": 3

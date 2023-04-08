@@ -14,7 +14,7 @@ mongo = PyMongo(app, uri=connection_string)
 @app.route("/")
 
 #def root():
-#    return app.send_static_file('template\index.html')
+#    return app.send_static_file('templates\index.html')
 
 def index():
     globalareas = mongo.db.global_areas.find_one()

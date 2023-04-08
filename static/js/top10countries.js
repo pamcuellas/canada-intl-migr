@@ -5,7 +5,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1980,
     "value": 5123
   },
@@ -15,7 +15,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1981,
     "value": 6682
   },
@@ -25,7 +25,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1982,
     "value": 3308
   },
@@ -35,7 +35,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1983,
     "value": 1863
   },
@@ -45,7 +45,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1984,
     "value": 1527
   },
@@ -55,7 +55,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1985,
     "value": 1816
   },
@@ -65,7 +65,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1986,
     "value": 1960
   },
@@ -75,7 +75,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1987,
     "value": 2643
   },
@@ -85,7 +85,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1988,
     "value": 2758
   },
@@ -95,7 +95,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1989,
     "value": 4323
   },
@@ -105,7 +105,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1990,
     "value": 8076
   },
@@ -115,7 +115,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1991,
     "value": 14255
   },
@@ -125,7 +125,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1992,
     "value": 10846
   },
@@ -135,7 +135,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1993,
     "value": 9817
   },
@@ -145,7 +145,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1994,
     "value": 13128
   },
@@ -155,7 +155,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1995,
     "value": 14398
   },
@@ -165,7 +165,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1996,
     "value": 19415
   },
@@ -175,7 +175,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1997,
     "value": 20475
   },
@@ -185,7 +185,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1998,
     "value": 21049
   },
@@ -195,7 +195,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1999,
     "value": 30069
   },
@@ -205,7 +205,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2000,
     "value": 35529
   },
@@ -215,7 +215,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2001,
     "value": 36434
   },
@@ -225,7 +225,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2002,
     "value": 31961
   },
@@ -235,7 +235,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2003,
     "value": 36439
   },
@@ -245,7 +245,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2004,
     "value": 36619
   },
@@ -255,7 +255,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2005,
     "value": 42584
   },
@@ -265,7 +265,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2006,
     "value": 33518
   },
@@ -275,7 +275,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2007,
     "value": 27642
   },
@@ -285,7 +285,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2008,
     "value": 30037
   },
@@ -295,7 +295,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2009,
     "value": 29622
   },
@@ -305,7 +305,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2010,
     "value": 30391
   },
@@ -315,7 +315,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2011,
     "value": 28502
   },
@@ -325,7 +325,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2012,
     "value": 33024
   },
@@ -335,7 +335,7 @@ var top10countries = [
     "devname": "All",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2013,
     "value": 34129
   },
@@ -345,7 +345,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1980,
     "value": 1011
   },
@@ -355,7 +355,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1981,
     "value": 1456
   },
@@ -365,7 +365,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1982,
     "value": 1572
   },
@@ -375,7 +375,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1983,
     "value": 1081
   },
@@ -385,7 +385,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1984,
     "value": 847
   },
@@ -395,7 +395,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1985,
     "value": 962
   },
@@ -405,7 +405,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1986,
     "value": 1208
   },
@@ -415,7 +415,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1987,
     "value": 2338
   },
@@ -425,7 +425,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1988,
     "value": 2805
   },
@@ -435,7 +435,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1989,
     "value": 2979
   },
@@ -445,7 +445,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1990,
     "value": 2087
   },
@@ -455,7 +455,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1991,
     "value": 2598
   },
@@ -465,7 +465,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1992,
     "value": 3790
   },
@@ -475,7 +475,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1993,
     "value": 3819
   },
@@ -485,7 +485,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1994,
     "value": 3005
   },
@@ -495,7 +495,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1995,
     "value": 3501
   },
@@ -505,7 +505,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1996,
     "value": 3250
   },
@@ -515,7 +515,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1997,
     "value": 4093
   },
@@ -525,7 +525,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1998,
     "value": 4938
   },
@@ -535,7 +535,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1999,
     "value": 7108
   },
@@ -545,7 +545,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2000,
     "value": 7618
   },
@@ -555,7 +555,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2001,
     "value": 9619
   },
@@ -565,7 +565,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2002,
     "value": 7342
   },
@@ -575,7 +575,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2003,
     "value": 7117
   },
@@ -585,7 +585,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2004,
     "value": 5352
   },
@@ -595,7 +595,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2005,
     "value": 5832
   },
@@ -605,7 +605,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2006,
     "value": 6215
   },
@@ -615,7 +615,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2007,
     "value": 5920
   },
@@ -625,7 +625,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2008,
     "value": 7294
   },
@@ -635,7 +635,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2009,
     "value": 5874
   },
@@ -645,7 +645,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2010,
     "value": 5537
   },
@@ -655,7 +655,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2011,
     "value": 4588
   },
@@ -665,7 +665,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2012,
     "value": 5316
   },
@@ -675,7 +675,7 @@ var top10countries = [
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2013,
     "value": 4509
   },
@@ -685,7 +685,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1980,
     "value": 6051
   },
@@ -695,7 +695,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1981,
     "value": 5921
   },
@@ -705,7 +705,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1982,
     "value": 5249
   },
@@ -715,7 +715,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1983,
     "value": 4562
   },
@@ -725,7 +725,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1984,
     "value": 3801
   },
@@ -735,7 +735,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1985,
     "value": 3150
   },
@@ -745,7 +745,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1986,
     "value": 4166
   },
@@ -755,7 +755,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1987,
     "value": 7360
   },
@@ -765,7 +765,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1988,
     "value": 8639
   },
@@ -775,7 +775,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1989,
     "value": 11865
   },
@@ -785,7 +785,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1990,
     "value": 12509
   },
@@ -795,7 +795,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1991,
     "value": 12718
   },
@@ -805,7 +805,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1992,
     "value": 13670
   },
@@ -815,7 +815,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1993,
     "value": 20479
   },
@@ -825,7 +825,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1994,
     "value": 19532
   },
@@ -835,7 +835,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1995,
     "value": 15864
   },
@@ -845,7 +845,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1996,
     "value": 13692
   },
@@ -855,7 +855,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1997,
     "value": 11549
   },
@@ -865,7 +865,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1998,
     "value": 8735
   },
@@ -875,7 +875,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1999,
     "value": 9734
   },
@@ -885,7 +885,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2000,
     "value": 10763
   },
@@ -895,7 +895,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2001,
     "value": 13836
   },
@@ -905,7 +905,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2002,
     "value": 11707
   },
@@ -915,7 +915,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2003,
     "value": 12758
   },
@@ -925,7 +925,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2004,
     "value": 14004
   },
@@ -935,7 +935,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2005,
     "value": 18139
   },
@@ -945,7 +945,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2006,
     "value": 18400
   },
@@ -955,7 +955,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2007,
     "value": 19837
   },
@@ -965,7 +965,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2008,
     "value": 24887
   },
@@ -975,7 +975,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2009,
     "value": 28573
   },
@@ -985,7 +985,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2010,
     "value": 38617
   },
@@ -995,7 +995,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2011,
     "value": 36765
   },
@@ -1005,7 +1005,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2012,
     "value": 34315
   },
@@ -1015,7 +1015,7 @@ var top10countries = [
     "devname": "All",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2013,
     "value": 29544
   },
@@ -1025,7 +1025,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1980,
     "value": 8880
   },
@@ -1035,7 +1035,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1981,
     "value": 8670
   },
@@ -1045,7 +1045,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1982,
     "value": 8147
   },
@@ -1055,7 +1055,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1983,
     "value": 7338
   },
@@ -1065,7 +1065,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1984,
     "value": 5704
   },
@@ -1075,7 +1075,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1985,
     "value": 4211
   },
@@ -1085,7 +1085,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1986,
     "value": 7150
   },
@@ -1095,7 +1095,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1987,
     "value": 10189
   },
@@ -1105,7 +1105,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1988,
     "value": 11522
   },
@@ -1115,7 +1115,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1989,
     "value": 10343
   },
@@ -1125,7 +1125,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1990,
     "value": 12041
   },
@@ -1135,7 +1135,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1991,
     "value": 13734
   },
@@ -1145,7 +1145,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1992,
     "value": 13673
   },
@@ -1155,7 +1155,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1993,
     "value": 21496
   },
@@ -1165,7 +1165,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1994,
     "value": 18620
   },
@@ -1175,7 +1175,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1995,
     "value": 18489
   },
@@ -1185,7 +1185,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1996,
     "value": 23859
   },
@@ -1195,7 +1195,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1997,
     "value": 22268
   },
@@ -1205,7 +1205,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1998,
     "value": 17241
   },
@@ -1215,7 +1215,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1999,
     "value": 18974
   },
@@ -1225,7 +1225,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2000,
     "value": 28572
   },
@@ -1235,7 +1235,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2001,
     "value": 31223
   },
@@ -1245,7 +1245,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2002,
     "value": 31889
   },
@@ -1255,7 +1255,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2003,
     "value": 27155
   },
@@ -1265,7 +1265,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2004,
     "value": 28235
   },
@@ -1275,7 +1275,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2005,
     "value": 36210
   },
@@ -1285,7 +1285,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2006,
     "value": 33848
   },
@@ -1295,7 +1295,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2007,
     "value": 28742
   },
@@ -1305,7 +1305,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2008,
     "value": 28261
   },
@@ -1315,7 +1315,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2009,
     "value": 29456
   },
@@ -1325,7 +1325,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2010,
     "value": 34235
   },
@@ -1335,7 +1335,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2011,
     "value": 27509
   },
@@ -1345,7 +1345,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2012,
     "value": 30933
   },
@@ -1355,7 +1355,7 @@ var top10countries = [
     "devname": "All",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2013,
     "value": 33087
   },
@@ -1365,7 +1365,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1980,
     "value": 1172
   },
@@ -1375,7 +1375,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1981,
     "value": 1429
   },
@@ -1385,7 +1385,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1982,
     "value": 1822
   },
@@ -1395,7 +1395,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1983,
     "value": 1592
   },
@@ -1405,7 +1405,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1984,
     "value": 1977
   },
@@ -1415,7 +1415,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1985,
     "value": 1648
   },
@@ -1425,7 +1425,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1986,
     "value": 1794
   },
@@ -1435,7 +1435,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1987,
     "value": 2989
   },
@@ -1445,7 +1445,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1988,
     "value": 3273
   },
@@ -1455,7 +1455,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1989,
     "value": 3781
   },
@@ -1465,7 +1465,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1990,
     "value": 3655
   },
@@ -1475,7 +1475,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1991,
     "value": 6250
   },
@@ -1485,7 +1485,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1992,
     "value": 6814
   },
@@ -1495,7 +1495,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1993,
     "value": 3959
   },
@@ -1505,7 +1505,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1994,
     "value": 2785
   },
@@ -1515,7 +1515,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1995,
     "value": 3956
   },
@@ -1525,7 +1525,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1996,
     "value": 6205
   },
@@ -1535,7 +1535,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1997,
     "value": 7982
   },
@@ -1545,7 +1545,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1998,
     "value": 7057
   },
@@ -1555,7 +1555,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1999,
     "value": 6208
   },
@@ -1565,7 +1565,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2000,
     "value": 5884
   },
@@ -1575,7 +1575,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2001,
     "value": 6169
   },
@@ -1585,7 +1585,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2002,
     "value": 8129
   },
@@ -1595,7 +1595,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2003,
     "value": 5918
   },
@@ -1605,7 +1605,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2004,
     "value": 6348
   },
@@ -1615,7 +1615,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2005,
     "value": 5837
   },
@@ -1625,7 +1625,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2006,
     "value": 7480
   },
@@ -1635,7 +1635,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2007,
     "value": 6974
   },
@@ -1645,7 +1645,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2008,
     "value": 6475
   },
@@ -1655,7 +1655,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2009,
     "value": 6580
   },
@@ -1665,7 +1665,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2010,
     "value": 7477
   },
@@ -1675,7 +1675,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2011,
     "value": 7479
   },
@@ -1685,7 +1685,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2012,
     "value": 7534
   },
@@ -1695,7 +1695,7 @@ var top10countries = [
     "devname": "All",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2013,
     "value": 11291
   },
@@ -1705,7 +1705,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1980,
     "value": 978
   },
@@ -1715,7 +1715,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1981,
     "value": 972
   },
@@ -1725,7 +1725,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1982,
     "value": 1201
   },
@@ -1735,7 +1735,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1983,
     "value": 900
   },
@@ -1745,7 +1745,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1984,
     "value": 668
   },
@@ -1755,7 +1755,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1985,
     "value": 514
   },
@@ -1765,7 +1765,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1986,
     "value": 691
   },
@@ -1775,7 +1775,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1987,
     "value": 1072
   },
@@ -1785,7 +1785,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1988,
     "value": 1334
   },
@@ -1795,7 +1795,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1989,
     "value": 2261
   },
@@ -1805,7 +1805,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1990,
     "value": 2470
   },
@@ -1815,7 +1815,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1991,
     "value": 3079
   },
@@ -1825,7 +1825,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1992,
     "value": 4071
   },
@@ -1835,7 +1835,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1993,
     "value": 4777
   },
@@ -1845,7 +1845,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1994,
     "value": 4666
   },
@@ -1855,7 +1855,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1995,
     "value": 4994
   },
@@ -1865,7 +1865,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1996,
     "value": 9125
   },
@@ -1875,7 +1875,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1997,
     "value": 13073
   },
@@ -1885,7 +1885,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1998,
     "value": 9068
   },
@@ -1895,7 +1895,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1999,
     "value": 9979
   },
@@ -1905,7 +1905,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2000,
     "value": 15400
   },
@@ -1915,7 +1915,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2001,
     "value": 16708
   },
@@ -1925,7 +1925,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2002,
     "value": 15110
   },
@@ -1935,7 +1935,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2003,
     "value": 13205
   },
@@ -1945,7 +1945,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2004,
     "value": 13399
   },
@@ -1955,7 +1955,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2005,
     "value": 14314
   },
@@ -1965,7 +1965,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2006,
     "value": 13127
   },
@@ -1975,7 +1975,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2007,
     "value": 10124
   },
@@ -1985,7 +1985,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2008,
     "value": 8994
   },
@@ -1995,7 +1995,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2009,
     "value": 7217
   },
@@ -2005,7 +2005,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2010,
     "value": 6811
   },
@@ -2015,7 +2015,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2011,
     "value": 7468
   },
@@ -2025,7 +2025,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2012,
     "value": 11227
   },
@@ -2035,7 +2035,7 @@ var top10countries = [
     "devname": "All",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2013,
     "value": 12603
   },
@@ -2045,7 +2045,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1980,
     "value": 185
   },
@@ -2055,7 +2055,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1981,
     "value": 371
   },
@@ -2065,7 +2065,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1982,
     "value": 290
   },
@@ -2075,7 +2075,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1983,
     "value": 197
   },
@@ -2085,7 +2085,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1984,
     "value": 1086
   },
@@ -2095,7 +2095,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1985,
     "value": 845
   },
@@ -2105,7 +2105,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1986,
     "value": 1838
   },
@@ -2115,7 +2115,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1987,
     "value": 4447
   },
@@ -2125,7 +2125,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1988,
     "value": 2779
   },
@@ -2135,7 +2135,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1989,
     "value": 2758
   },
@@ -2145,7 +2145,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1990,
     "value": 3525
   },
@@ -2155,7 +2155,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1991,
     "value": 7266
   },
@@ -2165,7 +2165,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1992,
     "value": 13102
   },
@@ -2175,7 +2175,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1993,
     "value": 9563
   },
@@ -2185,7 +2185,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1994,
     "value": 7150
   },
@@ -2195,7 +2195,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1995,
     "value": 9368
   },
@@ -2205,7 +2205,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1996,
     "value": 6484
   },
@@ -2215,7 +2215,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1997,
     "value": 5415
   },
@@ -2225,7 +2225,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1998,
     "value": 3566
   },
@@ -2235,7 +2235,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1999,
     "value": 4982
   },
@@ -2245,7 +2245,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2000,
     "value": 6081
   },
@@ -2255,7 +2255,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2001,
     "value": 5861
   },
@@ -2265,7 +2265,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2002,
     "value": 5279
   },
@@ -2275,7 +2275,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2003,
     "value": 4892
   },
@@ -2285,7 +2285,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2004,
     "value": 4495
   },
@@ -2295,7 +2295,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2005,
     "value": 4930
   },
@@ -2305,7 +2305,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2006,
     "value": 4714
   },
@@ -2315,7 +2315,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2007,
     "value": 4123
   },
@@ -2325,7 +2325,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2008,
     "value": 4756
   },
@@ -2335,7 +2335,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2009,
     "value": 4547
   },
@@ -2345,7 +2345,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2010,
     "value": 4422
   },
@@ -2355,7 +2355,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2011,
     "value": 3309
   },
@@ -2365,7 +2365,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2012,
     "value": 3338
   },
@@ -2375,7 +2375,7 @@ var top10countries = [
     "devname": "All",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2013,
     "value": 2394
   },
@@ -2385,7 +2385,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1980,
     "value": 863
   },
@@ -2395,7 +2395,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1981,
     "value": 2930
   },
@@ -2405,7 +2405,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1982,
     "value": 5881
   },
@@ -2415,7 +2415,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1983,
     "value": 4546
   },
@@ -2425,7 +2425,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1984,
     "value": 3588
   },
@@ -2435,7 +2435,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1985,
     "value": 2819
   },
@@ -2445,7 +2445,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1986,
     "value": 4808
   },
@@ -2455,7 +2455,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1987,
     "value": 6931
   },
@@ -2465,7 +2465,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1988,
     "value": 9211
   },
@@ -2475,7 +2475,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1989,
     "value": 16025
   },
@@ -2485,7 +2485,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1990,
     "value": 17040
   },
@@ -2495,7 +2495,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1991,
     "value": 16028
   },
@@ -2505,7 +2505,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1992,
     "value": 12145
   },
@@ -2515,7 +2515,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1993,
     "value": 6960
   },
@@ -2525,7 +2525,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1994,
     "value": 3550
   },
@@ -2535,7 +2535,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1995,
     "value": 2405
   },
@@ -2545,7 +2545,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1996,
     "value": 2136
   },
@@ -2555,7 +2555,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1997,
     "value": 1758
   },
@@ -2565,7 +2565,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1998,
     "value": 1488
   },
@@ -2575,7 +2575,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1999,
     "value": 1354
   },
@@ -2585,7 +2585,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2000,
     "value": 1471
   },
@@ -2595,7 +2595,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2001,
     "value": 1601
   },
@@ -2605,7 +2605,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2002,
     "value": 1447
   },
@@ -2615,7 +2615,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2003,
     "value": 1394
   },
@@ -2625,7 +2625,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2004,
     "value": 1533
   },
@@ -2635,7 +2635,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2005,
     "value": 1405
   },
@@ -2645,7 +2645,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2006,
     "value": 1263
   },
@@ -2655,7 +2655,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2007,
     "value": 1235
   },
@@ -2665,7 +2665,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2008,
     "value": 1267
   },
@@ -2675,7 +2675,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2009,
     "value": 1013
   },
@@ -2685,7 +2685,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2010,
     "value": 795
   },
@@ -2695,7 +2695,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2011,
     "value": 720
   },
@@ -2705,7 +2705,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2012,
     "value": 779
   },
@@ -2715,7 +2715,7 @@ var top10countries = [
     "devname": "All",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2013,
     "value": 852
   },
@@ -2725,7 +2725,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1980,
     "value": 22045
   },
@@ -2735,7 +2735,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1981,
     "value": 24796
   },
@@ -2745,7 +2745,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1982,
     "value": 20620
   },
@@ -2755,7 +2755,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1983,
     "value": 10015
   },
@@ -2765,7 +2765,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1984,
     "value": 10170
   },
@@ -2775,7 +2775,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1985,
     "value": 9564
   },
@@ -2785,7 +2785,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1986,
     "value": 9470
   },
@@ -2795,7 +2795,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1987,
     "value": 21337
   },
@@ -2805,7 +2805,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1988,
     "value": 27359
   },
@@ -2815,7 +2815,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1989,
     "value": 23795
   },
@@ -2825,7 +2825,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1990,
     "value": 31668
   },
@@ -2835,7 +2835,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1991,
     "value": 23380
   },
@@ -2845,7 +2845,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1992,
     "value": 34123
   },
@@ -2855,7 +2855,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1993,
     "value": 33720
   },
@@ -2865,7 +2865,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1994,
     "value": 39231
   },
@@ -2875,7 +2875,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1995,
     "value": 30145
   },
@@ -2885,7 +2885,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1996,
     "value": 29322
   },
@@ -2895,7 +2895,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1997,
     "value": 22965
   },
@@ -2905,7 +2905,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1998,
     "value": 10367
   },
@@ -2915,7 +2915,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1999,
     "value": 7045
   },
@@ -2925,7 +2925,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2000,
     "value": 8840
   },
@@ -2935,7 +2935,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2001,
     "value": 11728
   },
@@ -2945,7 +2945,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2002,
     "value": 8046
   },
@@ -2955,7 +2955,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2003,
     "value": 6797
   },
@@ -2965,7 +2965,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2004,
     "value": 7533
   },
@@ -2975,7 +2975,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2005,
     "value": 7258
   },
@@ -2985,7 +2985,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2006,
     "value": 7140
   },
@@ -2995,7 +2995,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2007,
     "value": 8216
   },
@@ -3005,7 +3005,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2008,
     "value": 8979
   },
@@ -3015,7 +3015,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2009,
     "value": 8876
   },
@@ -3025,7 +3025,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2010,
     "value": 8724
   },
@@ -3035,7 +3035,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2011,
     "value": 6204
   },
@@ -3045,7 +3045,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2012,
     "value": 6195
   },
@@ -3055,7 +3055,7 @@ var top10countries = [
     "devname": "All",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2013,
     "value": 5827
   },
@@ -3065,7 +3065,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1980,
     "value": 9378
   },
@@ -3075,7 +3075,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1981,
     "value": 10030
   },
@@ -3085,7 +3085,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1982,
     "value": 9074
   },
@@ -3095,7 +3095,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1983,
     "value": 7100
   },
@@ -3105,7 +3105,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1984,
     "value": 6661
   },
@@ -3115,7 +3115,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1985,
     "value": 6543
   },
@@ -3125,7 +3125,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1986,
     "value": 7074
   },
@@ -3135,7 +3135,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1987,
     "value": 7705
   },
@@ -3145,7 +3145,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1988,
     "value": 6469
   },
@@ -3155,7 +3155,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1989,
     "value": 6790
   },
@@ -3165,7 +3165,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1990,
     "value": 5892
   },
@@ -3175,7 +3175,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1991,
     "value": 6054
   },
@@ -3185,7 +3185,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1992,
     "value": 6842
   },
@@ -3195,7 +3195,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1993,
     "value": 7435
   },
@@ -3205,7 +3205,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1994,
     "value": 5901
   },
@@ -3215,7 +3215,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1995,
     "value": 4890
   },
@@ -3225,7 +3225,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1996,
     "value": 5515
   },
@@ -3235,7 +3235,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1997,
     "value": 4753
   },
@@ -3245,7 +3245,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1998,
     "value": 4437
   },
@@ -3255,7 +3255,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1999,
     "value": 5196
   },
@@ -3265,7 +3265,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2000,
     "value": 5433
   },
@@ -3275,7 +3275,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2001,
     "value": 5604
   },
@@ -3285,7 +3285,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2002,
     "value": 4948
   },
@@ -3295,7 +3295,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2003,
     "value": 5543
   },
@@ -3305,7 +3305,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2004,
     "value": 6990
   },
@@ -3315,7 +3315,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2005,
     "value": 8394
   },
@@ -3325,7 +3325,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2006,
     "value": 9613
   },
@@ -3335,7 +3335,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2007,
     "value": 9463
   },
@@ -3345,7 +3345,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2008,
     "value": 10190
   },
@@ -3355,7 +3355,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2009,
     "value": 8995
   },
@@ -3365,7 +3365,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2010,
     "value": 8142
   },
@@ -3375,7 +3375,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2011,
     "value": 7676
   },
@@ -3385,7 +3385,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2012,
     "value": 7891
   },
@@ -3395,7 +3395,7 @@ var top10countries = [
     "devname": "All",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2013,
     "value": 8501
   },
@@ -3405,7 +3405,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1980,
     "value": 5123
   },
@@ -3415,7 +3415,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1981,
     "value": 6682
   },
@@ -3425,7 +3425,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1982,
     "value": 3308
   },
@@ -3435,7 +3435,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1983,
     "value": 1863
   },
@@ -3445,7 +3445,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1984,
     "value": 1527
   },
@@ -3455,7 +3455,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1985,
     "value": 1816
   },
@@ -3465,7 +3465,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1986,
     "value": 1960
   },
@@ -3475,7 +3475,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1987,
     "value": 2643
   },
@@ -3485,7 +3485,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1988,
     "value": 2758
   },
@@ -3495,7 +3495,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1989,
     "value": 4323
   },
@@ -3505,7 +3505,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1990,
     "value": 8076
   },
@@ -3515,7 +3515,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1991,
     "value": 14255
   },
@@ -3525,7 +3525,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1992,
     "value": 10846
   },
@@ -3535,7 +3535,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1993,
     "value": 9817
   },
@@ -3545,7 +3545,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1994,
     "value": 13128
   },
@@ -3555,7 +3555,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1995,
     "value": 14398
   },
@@ -3565,7 +3565,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1996,
     "value": 19415
   },
@@ -3575,7 +3575,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1997,
     "value": 20475
   },
@@ -3585,7 +3585,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1998,
     "value": 21049
   },
@@ -3595,7 +3595,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 1999,
     "value": 30069
   },
@@ -3605,7 +3605,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2000,
     "value": 35529
   },
@@ -3615,7 +3615,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2001,
     "value": 36434
   },
@@ -3625,7 +3625,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2002,
     "value": 31961
   },
@@ -3635,7 +3635,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2003,
     "value": 36439
   },
@@ -3645,7 +3645,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2004,
     "value": 36619
   },
@@ -3655,7 +3655,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2005,
     "value": 42584
   },
@@ -3665,7 +3665,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2006,
     "value": 33518
   },
@@ -3675,7 +3675,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2007,
     "value": 27642
   },
@@ -3685,7 +3685,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2008,
     "value": 30037
   },
@@ -3695,7 +3695,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2009,
     "value": 29622
   },
@@ -3705,7 +3705,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2010,
     "value": 30391
   },
@@ -3715,7 +3715,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2011,
     "value": 28502
   },
@@ -3725,7 +3725,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2012,
     "value": 33024
   },
@@ -3735,7 +3735,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 35,
     "lon": 105,
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://flagcdn.com/w20/cn.png",
     "year": 2013,
     "value": 34129
   },
@@ -3745,7 +3745,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1980,
     "value": 1729
   },
@@ -3755,7 +3755,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1981,
     "value": 2027
   },
@@ -3765,7 +3765,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1982,
     "value": 2219
   },
@@ -3775,7 +3775,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1983,
     "value": 1490
   },
@@ -3785,7 +3785,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1984,
     "value": 1169
   },
@@ -3795,7 +3795,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1985,
     "value": 1177
   },
@@ -3805,7 +3805,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1986,
     "value": 1298
   },
@@ -3815,7 +3815,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1987,
     "value": 1658
   },
@@ -3825,7 +3825,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1988,
     "value": 2038
   },
@@ -3835,7 +3835,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1989,
     "value": 2332
   },
@@ -3845,7 +3845,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1990,
     "value": 2177
   },
@@ -3855,7 +3855,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1991,
     "value": 2911
   },
@@ -3865,7 +3865,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1992,
     "value": 3487
   },
@@ -3875,7 +3875,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1993,
     "value": 3709
   },
@@ -3885,7 +3885,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1994,
     "value": 2759
   },
@@ -3895,7 +3895,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1995,
     "value": 3332
   },
@@ -3905,7 +3905,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1996,
     "value": 2623
   },
@@ -3915,7 +3915,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1997,
     "value": 2473
   },
@@ -3925,7 +3925,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1998,
     "value": 3214
   },
@@ -3935,7 +3935,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 1999,
     "value": 3343
   },
@@ -3945,7 +3945,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2000,
     "value": 3765
   },
@@ -3955,7 +3955,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2001,
     "value": 3806
   },
@@ -3965,7 +3965,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2002,
     "value": 3463
   },
@@ -3975,7 +3975,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2003,
     "value": 3568
   },
@@ -3985,7 +3985,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2004,
     "value": 4391
   },
@@ -3995,7 +3995,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2005,
     "value": 4429
   },
@@ -4005,7 +4005,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2006,
     "value": 4002
   },
@@ -4015,7 +4015,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2007,
     "value": 4290
   },
@@ -4025,7 +4025,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2008,
     "value": 4532
   },
@@ -4035,7 +4035,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2009,
     "value": 5051
   },
@@ -4045,7 +4045,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2010,
     "value": 4646
   },
@@ -4055,7 +4055,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2011,
     "value": 4080
   },
@@ -4065,7 +4065,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2012,
     "value": 6280
   },
@@ -4075,7 +4075,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://flagcdn.com/w20/fr.png",
     "year": 2013,
     "value": 5623
   },
@@ -4085,7 +4085,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1980,
     "value": 1626
   },
@@ -4095,7 +4095,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1981,
     "value": 1977
   },
@@ -4105,7 +4105,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1982,
     "value": 3062
   },
@@ -4115,7 +4115,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1983,
     "value": 2376
   },
@@ -4125,7 +4125,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1984,
     "value": 1610
   },
@@ -4135,7 +4135,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1985,
     "value": 1441
   },
@@ -4145,7 +4145,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1986,
     "value": 1233
   },
@@ -4155,7 +4155,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1987,
     "value": 1704
   },
@@ -4165,7 +4165,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1988,
     "value": 1482
   },
@@ -4175,7 +4175,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1989,
     "value": 1706
   },
@@ -4185,7 +4185,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1990,
     "value": 1273
   },
@@ -4195,7 +4195,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1991,
     "value": 1273
   },
@@ -4205,7 +4205,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1992,
     "value": 1181
   },
@@ -4215,7 +4215,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1993,
     "value": 1488
   },
@@ -4225,7 +4225,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1994,
     "value": 1255
   },
@@ -4235,7 +4235,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1995,
     "value": 1553
   },
@@ -4245,7 +4245,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1996,
     "value": 1686
   },
@@ -4255,7 +4255,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1997,
     "value": 1397
   },
@@ -4265,7 +4265,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1998,
     "value": 1363
   },
@@ -4275,7 +4275,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 1999,
     "value": 1717
   },
@@ -4285,7 +4285,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2000,
     "value": 1703
   },
@@ -4295,7 +4295,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2001,
     "value": 1456
   },
@@ -4305,7 +4305,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2002,
     "value": 1375
   },
@@ -4315,7 +4315,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2003,
     "value": 1865
   },
@@ -4325,7 +4325,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2004,
     "value": 2020
   },
@@ -4335,7 +4335,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2005,
     "value": 2226
   },
@@ -4345,7 +4345,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2006,
     "value": 2767
   },
@@ -4355,7 +4355,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2007,
     "value": 2449
   },
@@ -4365,7 +4365,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2008,
     "value": 3833
   },
@@ -4375,7 +4375,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2009,
     "value": 3887
   },
@@ -4385,7 +4385,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2010,
     "value": 2956
   },
@@ -4395,7 +4395,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2011,
     "value": 2053
   },
@@ -4405,7 +4405,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2012,
     "value": 1702
   },
@@ -4415,7 +4415,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 51,
     "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://flagcdn.com/w20/de.png",
     "year": 2013,
     "value": 1217
   },
@@ -4425,7 +4425,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1980,
     "value": 8880
   },
@@ -4435,7 +4435,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1981,
     "value": 8670
   },
@@ -4445,7 +4445,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1982,
     "value": 8147
   },
@@ -4455,7 +4455,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1983,
     "value": 7338
   },
@@ -4465,7 +4465,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1984,
     "value": 5704
   },
@@ -4475,7 +4475,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1985,
     "value": 4211
   },
@@ -4485,7 +4485,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1986,
     "value": 7150
   },
@@ -4495,7 +4495,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1987,
     "value": 10189
   },
@@ -4505,7 +4505,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1988,
     "value": 11522
   },
@@ -4515,7 +4515,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1989,
     "value": 10343
   },
@@ -4525,7 +4525,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1990,
     "value": 12041
   },
@@ -4535,7 +4535,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1991,
     "value": 13734
   },
@@ -4545,7 +4545,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1992,
     "value": 13673
   },
@@ -4555,7 +4555,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1993,
     "value": 21496
   },
@@ -4565,7 +4565,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1994,
     "value": 18620
   },
@@ -4575,7 +4575,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1995,
     "value": 18489
   },
@@ -4585,7 +4585,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1996,
     "value": 23859
   },
@@ -4595,7 +4595,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1997,
     "value": 22268
   },
@@ -4605,7 +4605,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1998,
     "value": 17241
   },
@@ -4615,7 +4615,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 1999,
     "value": 18974
   },
@@ -4625,7 +4625,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2000,
     "value": 28572
   },
@@ -4635,7 +4635,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2001,
     "value": 31223
   },
@@ -4645,7 +4645,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2002,
     "value": 31889
   },
@@ -4655,7 +4655,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2003,
     "value": 27155
   },
@@ -4665,7 +4665,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2004,
     "value": 28235
   },
@@ -4675,7 +4675,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2005,
     "value": 36210
   },
@@ -4685,7 +4685,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2006,
     "value": 33848
   },
@@ -4695,7 +4695,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2007,
     "value": 28742
   },
@@ -4705,7 +4705,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2008,
     "value": 28261
   },
@@ -4715,7 +4715,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2009,
     "value": 29456
   },
@@ -4725,7 +4725,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2010,
     "value": 34235
   },
@@ -4735,7 +4735,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2011,
     "value": 27509
   },
@@ -4745,7 +4745,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2012,
     "value": 30933
   },
@@ -4755,7 +4755,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 20,
     "lon": 77,
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://flagcdn.com/w20/in.png",
     "year": 2013,
     "value": 33087
   },
@@ -4765,7 +4765,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1980,
     "value": 1172
   },
@@ -4775,7 +4775,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1981,
     "value": 1429
   },
@@ -4785,7 +4785,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1982,
     "value": 1822
   },
@@ -4795,7 +4795,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1983,
     "value": 1592
   },
@@ -4805,7 +4805,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1984,
     "value": 1977
   },
@@ -4815,7 +4815,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1985,
     "value": 1648
   },
@@ -4825,7 +4825,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1986,
     "value": 1794
   },
@@ -4835,7 +4835,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1987,
     "value": 2989
   },
@@ -4845,7 +4845,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1988,
     "value": 3273
   },
@@ -4855,7 +4855,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1989,
     "value": 3781
   },
@@ -4865,7 +4865,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1990,
     "value": 3655
   },
@@ -4875,7 +4875,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1991,
     "value": 6250
   },
@@ -4885,7 +4885,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1992,
     "value": 6814
   },
@@ -4895,7 +4895,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1993,
     "value": 3959
   },
@@ -4905,7 +4905,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1994,
     "value": 2785
   },
@@ -4915,7 +4915,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1995,
     "value": 3956
   },
@@ -4925,7 +4925,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1996,
     "value": 6205
   },
@@ -4935,7 +4935,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1997,
     "value": 7982
   },
@@ -4945,7 +4945,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1998,
     "value": 7057
   },
@@ -4955,7 +4955,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 1999,
     "value": 6208
   },
@@ -4965,7 +4965,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2000,
     "value": 5884
   },
@@ -4975,7 +4975,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2001,
     "value": 6169
   },
@@ -4985,7 +4985,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2002,
     "value": 8129
   },
@@ -4995,7 +4995,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2003,
     "value": 5918
   },
@@ -5005,7 +5005,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2004,
     "value": 6348
   },
@@ -5015,7 +5015,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2005,
     "value": 5837
   },
@@ -5025,7 +5025,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2006,
     "value": 7480
   },
@@ -5035,7 +5035,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2007,
     "value": 6974
   },
@@ -5045,7 +5045,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2008,
     "value": 6475
   },
@@ -5055,7 +5055,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2009,
     "value": 6580
   },
@@ -5065,7 +5065,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2010,
     "value": 7477
   },
@@ -5075,7 +5075,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2011,
     "value": 7479
   },
@@ -5085,7 +5085,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2012,
     "value": 7534
   },
@@ -5095,7 +5095,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 32,
     "lon": 53,
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://flagcdn.com/w20/ir.png",
     "year": 2013,
     "value": 11291
   },
@@ -5105,7 +5105,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1980,
     "value": 3198
   },
@@ -5115,7 +5115,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1981,
     "value": 2634
   },
@@ -5125,7 +5125,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1982,
     "value": 2661
   },
@@ -5135,7 +5135,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1983,
     "value": 2455
   },
@@ -5145,7 +5145,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1984,
     "value": 2508
   },
@@ -5155,7 +5155,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1985,
     "value": 2938
   },
@@ -5165,7 +5165,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1986,
     "value": 4649
   },
@@ -5175,7 +5175,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1987,
     "value": 5415
   },
@@ -5185,7 +5185,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1988,
     "value": 3924
   },
@@ -5195,7 +5195,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1989,
     "value": 3946
   },
@@ -5205,7 +5205,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1990,
     "value": 4945
   },
@@ -5215,7 +5215,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1991,
     "value": 5056
   },
@@ -5225,7 +5225,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1992,
     "value": 5991
   },
@@ -5235,7 +5235,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1993,
     "value": 6065
   },
@@ -5245,7 +5245,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1994,
     "value": 3913
   },
@@ -5255,7 +5255,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1995,
     "value": 3619
   },
@@ -5265,7 +5265,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1996,
     "value": 3282
   },
@@ -5275,7 +5275,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1997,
     "value": 2847
   },
@@ -5285,7 +5285,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1998,
     "value": 2253
   },
@@ -5295,7 +5295,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 1999,
     "value": 2358
   },
@@ -5305,7 +5305,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2000,
     "value": 2482
   },
@@ -5315,7 +5315,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2001,
     "value": 2838
   },
@@ -5325,7 +5325,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2002,
     "value": 2524
   },
@@ -5335,7 +5335,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2003,
     "value": 2054
   },
@@ -5345,7 +5345,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2004,
     "value": 2237
   },
@@ -5355,7 +5355,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2005,
     "value": 1945
   },
@@ -5365,7 +5365,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2006,
     "value": 1722
   },
@@ -5375,7 +5375,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2007,
     "value": 2141
   },
@@ -5385,7 +5385,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2008,
     "value": 2334
   },
@@ -5395,7 +5395,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2009,
     "value": 2456
   },
@@ -5405,7 +5405,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2010,
     "value": 2321
   },
@@ -5415,7 +5415,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2011,
     "value": 2059
   },
@@ -5425,7 +5425,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2012,
     "value": 2182
   },
@@ -5435,7 +5435,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 18.25,
     "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://flagcdn.com/w20/jm.png",
     "year": 2013,
     "value": 2479
   },
@@ -5445,7 +5445,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1980,
     "value": 701
   },
@@ -5455,7 +5455,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1981,
     "value": 756
   },
@@ -5465,7 +5465,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1982,
     "value": 598
   },
@@ -5475,7 +5475,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1983,
     "value": 309
   },
@@ -5485,7 +5485,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1984,
     "value": 246
   },
@@ -5495,7 +5495,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1985,
     "value": 198
   },
@@ -5505,7 +5505,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1986,
     "value": 248
   },
@@ -5515,7 +5515,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1987,
     "value": 422
   },
@@ -5525,7 +5525,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1988,
     "value": 324
   },
@@ -5535,7 +5535,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1989,
     "value": 494
   },
@@ -5545,7 +5545,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1990,
     "value": 379
   },
@@ -5555,7 +5555,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1991,
     "value": 506
   },
@@ -5565,7 +5565,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1992,
     "value": 605
   },
@@ -5575,7 +5575,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1993,
     "value": 907
   },
@@ -5585,7 +5585,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1994,
     "value": 956
   },
@@ -5595,7 +5595,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1995,
     "value": 826
   },
@@ -5605,7 +5605,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1996,
     "value": 994
   },
@@ -5615,7 +5615,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1997,
     "value": 924
   },
@@ -5625,7 +5625,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1998,
     "value": 897
   },
@@ -5635,7 +5635,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 1999,
     "value": 1083
   },
@@ -5645,7 +5645,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2000,
     "value": 1010
   },
@@ -5655,7 +5655,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2001,
     "value": 1092
   },
@@ -5665,7 +5665,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2002,
     "value": 806
   },
@@ -5675,7 +5675,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2003,
     "value": 817
   },
@@ -5685,7 +5685,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2004,
     "value": 973
   },
@@ -5695,7 +5695,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2005,
     "value": 1067
   },
@@ -5705,7 +5705,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2006,
     "value": 1212
   },
@@ -5715,7 +5715,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2007,
     "value": 1250
   },
@@ -5725,7 +5725,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2008,
     "value": 1284
   },
@@ -5735,7 +5735,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2009,
     "value": 1194
   },
@@ -5745,7 +5745,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2010,
     "value": 1168
   },
@@ -5755,7 +5755,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2011,
     "value": 1265
   },
@@ -5765,7 +5765,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2012,
     "value": 1214
   },
@@ -5775,7 +5775,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 36,
     "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://flagcdn.com/w20/jp.png",
     "year": 2013,
     "value": 982
   },
@@ -5785,7 +5785,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1980,
     "value": 1409
   },
@@ -5795,7 +5795,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1981,
     "value": 1119
   },
@@ -5805,7 +5805,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1982,
     "value": 1159
   },
@@ -5815,7 +5815,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1983,
     "value": 789
   },
@@ -5825,7 +5825,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1984,
     "value": 1253
   },
@@ -5835,7 +5835,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1985,
     "value": 1683
   },
@@ -5845,7 +5845,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1986,
     "value": 2576
   },
@@ -5855,7 +5855,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1987,
     "value": 3803
   },
@@ -5865,7 +5865,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1988,
     "value": 3970
   },
@@ -5875,7 +5875,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1989,
     "value": 7157
   },
@@ -5885,7 +5885,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1990,
     "value": 13568
   },
@@ -5895,7 +5895,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1991,
     "value": 12567
   },
@@ -5905,7 +5905,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1992,
     "value": 6915
   },
@@ -5915,7 +5915,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1993,
     "value": 4902
   },
@@ -5925,7 +5925,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1994,
     "value": 2751
   },
@@ -5935,7 +5935,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1995,
     "value": 2228
   },
@@ -5945,7 +5945,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1996,
     "value": 1919
   },
@@ -5955,7 +5955,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1997,
     "value": 1472
   },
@@ -5965,7 +5965,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1998,
     "value": 1329
   },
@@ -5975,7 +5975,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 1999,
     "value": 1594
   },
@@ -5985,7 +5985,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2000,
     "value": 1903
   },
@@ -5995,7 +5995,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2001,
     "value": 2578
   },
@@ -6005,7 +6005,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2002,
     "value": 2332
   },
@@ -6015,7 +6015,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2003,
     "value": 3179
   },
@@ -6025,7 +6025,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2004,
     "value": 3293
   },
@@ -6035,7 +6035,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2005,
     "value": 3709
   },
@@ -6045,7 +6045,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2006,
     "value": 3802
   },
@@ -6055,7 +6055,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2007,
     "value": 3467
   },
@@ -6065,7 +6065,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2008,
     "value": 3566
   },
@@ -6075,7 +6075,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2009,
     "value": 3077
   },
@@ -6085,7 +6085,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2010,
     "value": 3432
   },
@@ -6095,7 +6095,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2011,
     "value": 3072
   },
@@ -6105,7 +6105,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2012,
     "value": 1614
   },
@@ -6115,7 +6115,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 33.83333333,
     "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://flagcdn.com/w20/lb.png",
     "year": 2013,
     "value": 2172
   },
@@ -6125,7 +6125,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1980,
     "value": 978
   },
@@ -6135,7 +6135,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1981,
     "value": 972
   },
@@ -6145,7 +6145,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1982,
     "value": 1201
   },
@@ -6155,7 +6155,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1983,
     "value": 900
   },
@@ -6165,7 +6165,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1984,
     "value": 668
   },
@@ -6175,7 +6175,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1985,
     "value": 514
   },
@@ -6185,7 +6185,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1986,
     "value": 691
   },
@@ -6195,7 +6195,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1987,
     "value": 1072
   },
@@ -6205,7 +6205,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1988,
     "value": 1334
   },
@@ -6215,7 +6215,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1989,
     "value": 2261
   },
@@ -6225,7 +6225,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1990,
     "value": 2470
   },
@@ -6235,7 +6235,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1991,
     "value": 3079
   },
@@ -6245,7 +6245,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1992,
     "value": 4071
   },
@@ -6255,7 +6255,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1993,
     "value": 4777
   },
@@ -6265,7 +6265,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1994,
     "value": 4666
   },
@@ -6275,7 +6275,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1995,
     "value": 4994
   },
@@ -6285,7 +6285,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1996,
     "value": 9125
   },
@@ -6295,7 +6295,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1997,
     "value": 13073
   },
@@ -6305,7 +6305,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1998,
     "value": 9068
   },
@@ -6315,7 +6315,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 1999,
     "value": 9979
   },
@@ -6325,7 +6325,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2000,
     "value": 15400
   },
@@ -6335,7 +6335,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2001,
     "value": 16708
   },
@@ -6345,7 +6345,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2002,
     "value": 15110
   },
@@ -6355,7 +6355,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2003,
     "value": 13205
   },
@@ -6365,7 +6365,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2004,
     "value": 13399
   },
@@ -6375,7 +6375,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2005,
     "value": 14314
   },
@@ -6385,7 +6385,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2006,
     "value": 13127
   },
@@ -6395,7 +6395,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2007,
     "value": 10124
   },
@@ -6405,7 +6405,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2008,
     "value": 8994
   },
@@ -6415,7 +6415,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2009,
     "value": 7217
   },
@@ -6425,7 +6425,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2010,
     "value": 6811
   },
@@ -6435,7 +6435,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2011,
     "value": 7468
   },
@@ -6445,7 +6445,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2012,
     "value": 11227
   },
@@ -6455,7 +6455,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 30,
     "lon": 70,
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://flagcdn.com/w20/pk.png",
     "year": 2013,
     "value": 12603
   },
@@ -6465,7 +6465,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1980,
     "value": 6051
   },
@@ -6475,7 +6475,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1981,
     "value": 5921
   },
@@ -6485,7 +6485,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1982,
     "value": 5249
   },
@@ -6495,7 +6495,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1983,
     "value": 4562
   },
@@ -6505,7 +6505,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1984,
     "value": 3801
   },
@@ -6515,7 +6515,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1985,
     "value": 3150
   },
@@ -6525,7 +6525,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1986,
     "value": 4166
   },
@@ -6535,7 +6535,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1987,
     "value": 7360
   },
@@ -6545,7 +6545,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1988,
     "value": 8639
   },
@@ -6555,7 +6555,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1989,
     "value": 11865
   },
@@ -6565,7 +6565,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1990,
     "value": 12509
   },
@@ -6575,7 +6575,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1991,
     "value": 12718
   },
@@ -6585,7 +6585,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1992,
     "value": 13670
   },
@@ -6595,7 +6595,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1993,
     "value": 20479
   },
@@ -6605,7 +6605,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1994,
     "value": 19532
   },
@@ -6615,7 +6615,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1995,
     "value": 15864
   },
@@ -6625,7 +6625,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1996,
     "value": 13692
   },
@@ -6635,7 +6635,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1997,
     "value": 11549
   },
@@ -6645,7 +6645,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1998,
     "value": 8735
   },
@@ -6655,7 +6655,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 1999,
     "value": 9734
   },
@@ -6665,7 +6665,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2000,
     "value": 10763
   },
@@ -6675,7 +6675,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2001,
     "value": 13836
   },
@@ -6685,7 +6685,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2002,
     "value": 11707
   },
@@ -6695,7 +6695,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2003,
     "value": 12758
   },
@@ -6705,7 +6705,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2004,
     "value": 14004
   },
@@ -6715,7 +6715,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2005,
     "value": 18139
   },
@@ -6725,7 +6725,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2006,
     "value": 18400
   },
@@ -6735,7 +6735,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2007,
     "value": 19837
   },
@@ -6745,7 +6745,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2008,
     "value": 24887
   },
@@ -6755,7 +6755,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2009,
     "value": 28573
   },
@@ -6765,7 +6765,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2010,
     "value": 38617
   },
@@ -6775,7 +6775,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2011,
     "value": 36765
   },
@@ -6785,7 +6785,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2012,
     "value": 34315
   },
@@ -6795,7 +6795,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 13,
     "lon": 122,
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://flagcdn.com/w20/ph.png",
     "year": 2013,
     "value": 29544
   },
@@ -6805,7 +6805,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1980,
     "value": 863
   },
@@ -6815,7 +6815,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1981,
     "value": 2930
   },
@@ -6825,7 +6825,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1982,
     "value": 5881
   },
@@ -6835,7 +6835,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1983,
     "value": 4546
   },
@@ -6845,7 +6845,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1984,
     "value": 3588
   },
@@ -6855,7 +6855,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1985,
     "value": 2819
   },
@@ -6865,7 +6865,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1986,
     "value": 4808
   },
@@ -6875,7 +6875,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1987,
     "value": 6931
   },
@@ -6885,7 +6885,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1988,
     "value": 9211
   },
@@ -6895,7 +6895,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1989,
     "value": 16025
   },
@@ -6905,7 +6905,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1990,
     "value": 17040
   },
@@ -6915,7 +6915,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1991,
     "value": 16028
   },
@@ -6925,7 +6925,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1992,
     "value": 12145
   },
@@ -6935,7 +6935,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1993,
     "value": 6960
   },
@@ -6945,7 +6945,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1994,
     "value": 3550
   },
@@ -6955,7 +6955,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1995,
     "value": 2405
   },
@@ -6965,7 +6965,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1996,
     "value": 2136
   },
@@ -6975,7 +6975,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1997,
     "value": 1758
   },
@@ -6985,7 +6985,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1998,
     "value": 1488
   },
@@ -6995,7 +6995,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 1999,
     "value": 1354
   },
@@ -7005,7 +7005,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2000,
     "value": 1471
   },
@@ -7015,7 +7015,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2001,
     "value": 1601
   },
@@ -7025,7 +7025,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2002,
     "value": 1447
   },
@@ -7035,7 +7035,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2003,
     "value": 1394
   },
@@ -7045,7 +7045,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2004,
     "value": 1533
   },
@@ -7055,7 +7055,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2005,
     "value": 1405
   },
@@ -7065,7 +7065,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2006,
     "value": 1263
   },
@@ -7075,7 +7075,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2007,
     "value": 1235
   },
@@ -7085,7 +7085,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2008,
     "value": 1267
   },
@@ -7095,7 +7095,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2009,
     "value": 1013
   },
@@ -7105,7 +7105,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2010,
     "value": 795
   },
@@ -7115,7 +7115,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2011,
     "value": 720
   },
@@ -7125,7 +7125,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2012,
     "value": 779
   },
@@ -7135,7 +7135,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 52,
     "lon": 20,
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://flagcdn.com/w20/pl.png",
     "year": 2013,
     "value": 852
   },
@@ -7145,7 +7145,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1980,
     "value": 4473
   },
@@ -7155,7 +7155,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1981,
     "value": 3486
   },
@@ -7165,7 +7165,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1982,
     "value": 2432
   },
@@ -7175,7 +7175,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1983,
     "value": 1433
   },
@@ -7185,7 +7185,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1984,
     "value": 1398
   },
@@ -7195,7 +7195,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1985,
     "value": 1451
   },
@@ -7205,7 +7205,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1986,
     "value": 2617
   },
@@ -7215,7 +7215,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1987,
     "value": 7684
   },
@@ -7225,7 +7225,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1988,
     "value": 6888
   },
@@ -7235,7 +7235,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1989,
     "value": 8570
   },
@@ -7245,7 +7245,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1990,
     "value": 8452
   },
@@ -7255,7 +7255,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1991,
     "value": 6286
   },
@@ -7265,7 +7265,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1992,
     "value": 3328
   },
@@ -7275,7 +7275,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1993,
     "value": 2347
   },
@@ -7285,7 +7285,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1994,
     "value": 1599
   },
@@ -7295,7 +7295,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1995,
     "value": 1405
   },
@@ -7305,7 +7305,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1996,
     "value": 1237
   },
@@ -7315,7 +7315,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1997,
     "value": 1167
   },
@@ -7325,7 +7325,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1998,
     "value": 625
   },
@@ -7335,7 +7335,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 1999,
     "value": 458
   },
@@ -7345,7 +7345,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2000,
     "value": 469
   },
@@ -7355,7 +7355,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2001,
     "value": 531
   },
@@ -7365,7 +7365,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2002,
     "value": 364
   },
@@ -7375,7 +7375,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2003,
     "value": 329
   },
@@ -7385,7 +7385,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2004,
     "value": 336
   },
@@ -7395,7 +7395,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2005,
     "value": 338
   },
@@ -7405,7 +7405,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2006,
     "value": 424
   },
@@ -7415,7 +7415,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2007,
     "value": 405
   },
@@ -7425,7 +7425,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2008,
     "value": 665
   },
@@ -7435,7 +7435,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2009,
     "value": 623
   },
@@ -7445,7 +7445,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2010,
     "value": 629
   },
@@ -7455,7 +7455,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2011,
     "value": 528
   },
@@ -7465,7 +7465,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2012,
     "value": 560
   },
@@ -7475,7 +7475,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 39.5,
     "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://flagcdn.com/w20/pt.png",
     "year": 2013,
     "value": 630
   },
@@ -7485,7 +7485,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1980,
     "value": 1011
   },
@@ -7495,7 +7495,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1981,
     "value": 1456
   },
@@ -7505,7 +7505,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1982,
     "value": 1572
   },
@@ -7515,7 +7515,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1983,
     "value": 1081
   },
@@ -7525,7 +7525,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1984,
     "value": 847
   },
@@ -7535,7 +7535,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1985,
     "value": 962
   },
@@ -7545,7 +7545,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1986,
     "value": 1208
   },
@@ -7555,7 +7555,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1987,
     "value": 2338
   },
@@ -7565,7 +7565,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1988,
     "value": 2805
   },
@@ -7575,7 +7575,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1989,
     "value": 2979
   },
@@ -7585,7 +7585,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1990,
     "value": 2087
   },
@@ -7595,7 +7595,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1991,
     "value": 2598
   },
@@ -7605,7 +7605,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1992,
     "value": 3790
   },
@@ -7615,7 +7615,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1993,
     "value": 3819
   },
@@ -7625,7 +7625,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1994,
     "value": 3005
   },
@@ -7635,7 +7635,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1995,
     "value": 3501
   },
@@ -7645,7 +7645,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1996,
     "value": 3250
   },
@@ -7655,7 +7655,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1997,
     "value": 4093
   },
@@ -7665,7 +7665,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1998,
     "value": 4938
   },
@@ -7675,7 +7675,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 1999,
     "value": 7108
   },
@@ -7685,7 +7685,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2000,
     "value": 7618
   },
@@ -7695,7 +7695,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2001,
     "value": 9619
   },
@@ -7705,7 +7705,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2002,
     "value": 7342
   },
@@ -7715,7 +7715,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2003,
     "value": 7117
   },
@@ -7725,7 +7725,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2004,
     "value": 5352
   },
@@ -7735,7 +7735,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2005,
     "value": 5832
   },
@@ -7745,7 +7745,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2006,
     "value": 6215
   },
@@ -7755,7 +7755,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2007,
     "value": 5920
   },
@@ -7765,7 +7765,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2008,
     "value": 7294
   },
@@ -7775,7 +7775,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2009,
     "value": 5874
   },
@@ -7785,7 +7785,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2010,
     "value": 5537
   },
@@ -7795,7 +7795,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2011,
     "value": 4588
   },
@@ -7805,7 +7805,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2012,
     "value": 5316
   },
@@ -7815,7 +7815,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://flagcdn.com/w20/kr.png",
     "year": 2013,
     "value": 4509
   },
@@ -7825,7 +7825,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1980,
     "value": 375
   },
@@ -7835,7 +7835,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1981,
     "value": 438
   },
@@ -7845,7 +7845,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1982,
     "value": 583
   },
@@ -7855,7 +7855,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1983,
     "value": 543
   },
@@ -7865,7 +7865,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1984,
     "value": 524
   },
@@ -7875,7 +7875,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1985,
     "value": 604
   },
@@ -7885,7 +7885,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1986,
     "value": 656
   },
@@ -7895,7 +7895,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1987,
     "value": 1202
   },
@@ -7905,7 +7905,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1988,
     "value": 1106
   },
@@ -7915,7 +7915,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1989,
     "value": 1582
   },
@@ -7925,7 +7925,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1990,
     "value": 2252
   },
@@ -7935,7 +7935,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1991,
     "value": 2337
   },
@@ -7945,7 +7945,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1992,
     "value": 3147
   },
@@ -7955,7 +7955,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1993,
     "value": 3676
   },
@@ -7965,7 +7965,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1994,
     "value": 3495
   },
@@ -7975,7 +7975,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1995,
     "value": 4279
   },
@@ -7985,7 +7985,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1996,
     "value": 3909
   },
@@ -7995,7 +7995,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1997,
     "value": 3993
   },
@@ -8005,7 +8005,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1998,
     "value": 3033
   },
@@ -8015,7 +8015,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 1999,
     "value": 3538
   },
@@ -8025,7 +8025,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2000,
     "value": 4539
   },
@@ -8035,7 +8035,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2001,
     "value": 5652
   },
@@ -8045,7 +8045,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2002,
     "value": 5765
   },
@@ -8055,7 +8055,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2003,
     "value": 5541
   },
@@ -8065,7 +8065,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2004,
     "value": 5755
   },
@@ -8075,7 +8075,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2005,
     "value": 5048
   },
@@ -8085,7 +8085,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2006,
     "value": 4468
   },
@@ -8095,7 +8095,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2007,
     "value": 3834
   },
@@ -8105,7 +8105,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2008,
     "value": 2837
   },
@@ -8115,7 +8115,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2009,
     "value": 2076
   },
@@ -8125,7 +8125,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2010,
     "value": 1922
   },
@@ -8135,7 +8135,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2011,
     "value": 1776
   },
@@ -8145,7 +8145,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2012,
     "value": 1588
   },
@@ -8155,7 +8155,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 46,
     "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://flagcdn.com/w20/ro.png",
     "year": 2013,
     "value": 1512
   },
@@ -8165,7 +8165,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1980,
     "value": 0
   },
@@ -8175,7 +8175,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1981,
     "value": 0
   },
@@ -8185,7 +8185,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1982,
     "value": 0
   },
@@ -8195,7 +8195,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1983,
     "value": 0
   },
@@ -8205,7 +8205,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1984,
     "value": 0
   },
@@ -8215,7 +8215,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1985,
     "value": 0
   },
@@ -8225,7 +8225,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1986,
     "value": 0
   },
@@ -8235,7 +8235,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1987,
     "value": 0
   },
@@ -8245,7 +8245,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1988,
     "value": 0
   },
@@ -8255,7 +8255,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1989,
     "value": 0
   },
@@ -8265,7 +8265,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1990,
     "value": 0
   },
@@ -8275,7 +8275,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1991,
     "value": 0
   },
@@ -8285,7 +8285,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1992,
     "value": 172
   },
@@ -8295,7 +8295,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1993,
     "value": 906
   },
@@ -8305,7 +8305,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1994,
     "value": 1327
   },
@@ -8315,7 +8315,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1995,
     "value": 1819
   },
@@ -8325,7 +8325,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1996,
     "value": 2640
   },
@@ -8335,7 +8335,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1997,
     "value": 3708
   },
@@ -8345,7 +8345,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1998,
     "value": 4388
   },
@@ -8355,7 +8355,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 1999,
     "value": 4053
   },
@@ -8365,7 +8365,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2000,
     "value": 3843
   },
@@ -8375,7 +8375,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2001,
     "value": 4351
   },
@@ -8385,7 +8385,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2002,
     "value": 3941
   },
@@ -8395,7 +8395,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2003,
     "value": 3718
   },
@@ -8405,7 +8405,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2004,
     "value": 3989
   },
@@ -8415,7 +8415,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2005,
     "value": 3972
   },
@@ -8425,7 +8425,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2006,
     "value": 3117
   },
@@ -8435,7 +8435,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2007,
     "value": 2983
   },
@@ -8445,7 +8445,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2008,
     "value": 2690
   },
@@ -8455,7 +8455,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2009,
     "value": 2931
   },
@@ -8465,7 +8465,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2010,
     "value": 2288
   },
@@ -8475,7 +8475,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2011,
     "value": 1963
   },
@@ -8485,7 +8485,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2012,
     "value": 2079
   },
@@ -8495,7 +8495,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://flagcdn.com/w20/ru.png",
     "year": 2013,
     "value": 2466
   },
@@ -8505,7 +8505,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1980,
     "value": 185
   },
@@ -8515,7 +8515,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1981,
     "value": 371
   },
@@ -8525,7 +8525,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1982,
     "value": 290
   },
@@ -8535,7 +8535,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1983,
     "value": 197
   },
@@ -8545,7 +8545,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1984,
     "value": 1086
   },
@@ -8555,7 +8555,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1985,
     "value": 845
   },
@@ -8565,7 +8565,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1986,
     "value": 1838
   },
@@ -8575,7 +8575,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1987,
     "value": 4447
   },
@@ -8585,7 +8585,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1988,
     "value": 2779
   },
@@ -8595,7 +8595,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1989,
     "value": 2758
   },
@@ -8605,7 +8605,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1990,
     "value": 3525
   },
@@ -8615,7 +8615,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1991,
     "value": 7266
   },
@@ -8625,7 +8625,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1992,
     "value": 13102
   },
@@ -8635,7 +8635,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1993,
     "value": 9563
   },
@@ -8645,7 +8645,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1994,
     "value": 7150
   },
@@ -8655,7 +8655,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1995,
     "value": 9368
   },
@@ -8665,7 +8665,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1996,
     "value": 6484
   },
@@ -8675,7 +8675,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1997,
     "value": 5415
   },
@@ -8685,7 +8685,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1998,
     "value": 3566
   },
@@ -8695,7 +8695,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 1999,
     "value": 4982
   },
@@ -8705,7 +8705,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2000,
     "value": 6081
   },
@@ -8715,7 +8715,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2001,
     "value": 5861
   },
@@ -8725,7 +8725,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2002,
     "value": 5279
   },
@@ -8735,7 +8735,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2003,
     "value": 4892
   },
@@ -8745,7 +8745,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2004,
     "value": 4495
   },
@@ -8755,7 +8755,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2005,
     "value": 4930
   },
@@ -8765,7 +8765,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2006,
     "value": 4714
   },
@@ -8775,7 +8775,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2007,
     "value": 4123
   },
@@ -8785,7 +8785,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2008,
     "value": 4756
   },
@@ -8795,7 +8795,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2009,
     "value": 4547
   },
@@ -8805,7 +8805,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2010,
     "value": 4422
   },
@@ -8815,7 +8815,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2011,
     "value": 3309
   },
@@ -8825,7 +8825,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2012,
     "value": 3338
   },
@@ -8835,7 +8835,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 7,
     "lon": 81,
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://flagcdn.com/w20/lk.png",
     "year": 2013,
     "value": 2394
   },
@@ -8845,7 +8845,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1980,
     "value": 0
   },
@@ -8855,7 +8855,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1981,
     "value": 0
   },
@@ -8865,7 +8865,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1982,
     "value": 0
   },
@@ -8875,7 +8875,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1983,
     "value": 0
   },
@@ -8885,7 +8885,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1984,
     "value": 0
   },
@@ -8895,7 +8895,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1985,
     "value": 0
   },
@@ -8905,7 +8905,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1986,
     "value": 0
   },
@@ -8915,7 +8915,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1987,
     "value": 0
   },
@@ -8925,7 +8925,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1988,
     "value": 0
   },
@@ -8935,7 +8935,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1989,
     "value": 0
   },
@@ -8945,7 +8945,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1990,
     "value": 0
   },
@@ -8955,7 +8955,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1991,
     "value": 0
   },
@@ -8965,7 +8965,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1992,
     "value": 103
   },
@@ -8975,7 +8975,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1993,
     "value": 761
   },
@@ -8985,7 +8985,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1994,
     "value": 1289
   },
@@ -8995,7 +8995,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1995,
     "value": 1751
   },
@@ -9005,7 +9005,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1996,
     "value": 2684
   },
@@ -9015,7 +9015,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1997,
     "value": 2518
   },
@@ -9025,7 +9025,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1998,
     "value": 2702
   },
@@ -9035,7 +9035,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 1999,
     "value": 2836
   },
@@ -9045,7 +9045,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2000,
     "value": 3351
   },
@@ -9055,7 +9055,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2001,
     "value": 3514
   },
@@ -9065,7 +9065,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2002,
     "value": 3520
   },
@@ -9075,7 +9075,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2003,
     "value": 2759
   },
@@ -9085,7 +9085,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2004,
     "value": 2431
   },
@@ -9095,7 +9095,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2005,
     "value": 2270
   },
@@ -9105,7 +9105,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2006,
     "value": 1973
   },
@@ -9115,7 +9115,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2007,
     "value": 2218
   },
@@ -9125,7 +9125,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2008,
     "value": 1937
   },
@@ -9135,7 +9135,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2009,
     "value": 2367
   },
@@ -9145,7 +9145,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2010,
     "value": 3159
   },
@@ -9155,7 +9155,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2011,
     "value": 2515
   },
@@ -9165,7 +9165,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2012,
     "value": 2265
   },
@@ -9175,7 +9175,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 49,
     "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://flagcdn.com/w20/ua.png",
     "year": 2013,
     "value": 2487
   },
@@ -9185,7 +9185,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1980,
     "value": 22045
   },
@@ -9195,7 +9195,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1981,
     "value": 24796
   },
@@ -9205,7 +9205,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1982,
     "value": 20620
   },
@@ -9215,7 +9215,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1983,
     "value": 10015
   },
@@ -9225,7 +9225,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1984,
     "value": 10170
   },
@@ -9235,7 +9235,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1985,
     "value": 9564
   },
@@ -9245,7 +9245,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1986,
     "value": 9470
   },
@@ -9255,7 +9255,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1987,
     "value": 21337
   },
@@ -9265,7 +9265,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1988,
     "value": 27359
   },
@@ -9275,7 +9275,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1989,
     "value": 23795
   },
@@ -9285,7 +9285,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1990,
     "value": 31668
   },
@@ -9295,7 +9295,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1991,
     "value": 23380
   },
@@ -9305,7 +9305,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1992,
     "value": 34123
   },
@@ -9315,7 +9315,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1993,
     "value": 33720
   },
@@ -9325,7 +9325,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1994,
     "value": 39231
   },
@@ -9335,7 +9335,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1995,
     "value": 30145
   },
@@ -9345,7 +9345,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1996,
     "value": 29322
   },
@@ -9355,7 +9355,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1997,
     "value": 22965
   },
@@ -9365,7 +9365,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1998,
     "value": 10367
   },
@@ -9375,7 +9375,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 1999,
     "value": 7045
   },
@@ -9385,7 +9385,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2000,
     "value": 8840
   },
@@ -9395,7 +9395,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2001,
     "value": 11728
   },
@@ -9405,7 +9405,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2002,
     "value": 8046
   },
@@ -9415,7 +9415,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2003,
     "value": 6797
   },
@@ -9425,7 +9425,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2004,
     "value": 7533
   },
@@ -9435,7 +9435,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2005,
     "value": 7258
   },
@@ -9445,7 +9445,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2006,
     "value": 7140
   },
@@ -9455,7 +9455,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2007,
     "value": 8216
   },
@@ -9465,7 +9465,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2008,
     "value": 8979
   },
@@ -9475,7 +9475,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2009,
     "value": 8876
   },
@@ -9485,7 +9485,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2010,
     "value": 8724
   },
@@ -9495,7 +9495,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2011,
     "value": 6204
   },
@@ -9505,7 +9505,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2012,
     "value": 6195
   },
@@ -9515,7 +9515,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://flagcdn.com/16x12/gb.png",
     "year": 2013,
     "value": 5827
   },
@@ -9525,7 +9525,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1980,
     "value": 9378
   },
@@ -9535,7 +9535,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1981,
     "value": 10030
   },
@@ -9545,7 +9545,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1982,
     "value": 9074
   },
@@ -9555,7 +9555,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1983,
     "value": 7100
   },
@@ -9565,7 +9565,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1984,
     "value": 6661
   },
@@ -9575,7 +9575,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1985,
     "value": 6543
   },
@@ -9585,7 +9585,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1986,
     "value": 7074
   },
@@ -9595,7 +9595,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1987,
     "value": 7705
   },
@@ -9605,7 +9605,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1988,
     "value": 6469
   },
@@ -9615,7 +9615,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1989,
     "value": 6790
   },
@@ -9625,7 +9625,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1990,
     "value": 5892
   },
@@ -9635,7 +9635,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1991,
     "value": 6054
   },
@@ -9645,7 +9645,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1992,
     "value": 6842
   },
@@ -9655,7 +9655,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1993,
     "value": 7435
   },
@@ -9665,7 +9665,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1994,
     "value": 5901
   },
@@ -9675,7 +9675,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1995,
     "value": 4890
   },
@@ -9685,7 +9685,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1996,
     "value": 5515
   },
@@ -9695,7 +9695,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1997,
     "value": 4753
   },
@@ -9705,7 +9705,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1998,
     "value": 4437
   },
@@ -9715,7 +9715,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 1999,
     "value": 5196
   },
@@ -9725,7 +9725,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2000,
     "value": 5433
   },
@@ -9735,7 +9735,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2001,
     "value": 5604
   },
@@ -9745,7 +9745,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2002,
     "value": 4948
   },
@@ -9755,7 +9755,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2003,
     "value": 5543
   },
@@ -9765,7 +9765,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2004,
     "value": 6990
   },
@@ -9775,7 +9775,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2005,
     "value": 8394
   },
@@ -9785,7 +9785,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2006,
     "value": 9613
   },
@@ -9795,7 +9795,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2007,
     "value": 9463
   },
@@ -9805,7 +9805,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2008,
     "value": 10190
   },
@@ -9815,7 +9815,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2009,
     "value": 8995
   },
@@ -9825,7 +9825,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2010,
     "value": 8142
   },
@@ -9835,7 +9835,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2011,
     "value": 7676
   },
@@ -9845,7 +9845,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2012,
     "value": 7891
   },
@@ -9855,7 +9855,7 @@ var top10countries = [
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://flagcdn.com/w20/us.png",
     "year": 2013,
     "value": 8501
   },
@@ -9865,7 +9865,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1980,
     "value": 1191
   },
@@ -9875,7 +9875,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1981,
     "value": 1829
   },
@@ -9885,7 +9885,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1982,
     "value": 2162
   },
@@ -9895,7 +9895,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1983,
     "value": 3404
   },
@@ -9905,7 +9905,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1984,
     "value": 7583
   },
@@ -9915,7 +9915,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1985,
     "value": 5907
   },
@@ -9925,7 +9925,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1986,
     "value": 2741
   },
@@ -9935,7 +9935,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1987,
     "value": 1406
   },
@@ -9945,7 +9945,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1988,
     "value": 1411
   },
@@ -9955,7 +9955,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1989,
     "value": 3004
   },
@@ -9965,7 +9965,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1990,
     "value": 3801
   },
@@ -9975,7 +9975,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1991,
     "value": 5870
   },
@@ -9985,7 +9985,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1992,
     "value": 5416
   },
@@ -9995,7 +9995,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1993,
     "value": 6547
   },
@@ -10005,7 +10005,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1994,
     "value": 5105
   },
@@ -10015,7 +10015,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1995,
     "value": 3723
   },
@@ -10025,7 +10025,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1996,
     "value": 2462
   },
@@ -10035,7 +10035,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1997,
     "value": 1752
   },
@@ -10045,7 +10045,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1998,
     "value": 1631
   },
@@ -10055,7 +10055,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 1999,
     "value": 1419
   },
@@ -10065,7 +10065,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2000,
     "value": 1803
   },
@@ -10075,7 +10075,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2001,
     "value": 2117
   },
@@ -10085,7 +10085,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2002,
     "value": 2291
   },
@@ -10095,7 +10095,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2003,
     "value": 1713
   },
@@ -10105,7 +10105,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2004,
     "value": 1816
   },
@@ -10115,7 +10115,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2005,
     "value": 1852
   },
@@ -10125,7 +10125,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2006,
     "value": 3153
   },
@@ -10135,7 +10135,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2007,
     "value": 2574
   },
@@ -10145,7 +10145,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2008,
     "value": 1784
   },
@@ -10155,7 +10155,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2009,
     "value": 2171
   },
@@ -10165,7 +10165,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2010,
     "value": 1942
   },
@@ -10175,7 +10175,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2011,
     "value": 1723
   },
@@ -10185,7 +10185,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2012,
     "value": 1731
   },
@@ -10195,7 +10195,7 @@ var top10countries = [
     "devname": "Developing regions",
     "lat": 16.16666666,
     "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://flagcdn.com/w20/vn.png",
     "year": 2013,
     "value": 2112
   }
