@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: world-migration-stats
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: MONGO_PASSWORD
+        sync: false
+      - key: MONGO_USER
+        sync: false
+      - key: MONGO_HOST
+        sync: false
+      - key: MONGO_DBNAME
+        value: migration
+      - key: MONGO_PARAMS
+        value: retryWrites=true&w=majority&appName=Cluster0
+      - key: PYTHON_VERSION
+        value: 3.11.9
