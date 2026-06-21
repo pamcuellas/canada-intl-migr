@@ -34,6 +34,3 @@ def scrape():
     mongo = PyMongo(app, uri=connection_string)
     global_areas = mongo.db.global_areas.find_one()
     return render_template("index.html", global_areas=global_areas)
-
-
-    return json_data

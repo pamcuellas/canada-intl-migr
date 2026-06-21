@@ -1,8 +1,8 @@
 # import dependencies
 
-from flask import Flask, render_template, redirect
+import os
+from flask import Flask, render_template
 from flask_pymongo import PyMongo
-import scrape_world_migration
 from dbconfig import dbname, dbuser, psswd, host, parameters
 
 app = Flask(__name__)
@@ -33,4 +33,4 @@ def scrape():
     return redirect("/", code=302)
  """
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=os.environ.get("FLASK_DEBUG", "false").lower() == "true")

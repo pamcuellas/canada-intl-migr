@@ -488,48 +488,41 @@ var layerControl = L.control.layers(baseMaps, null, {
 }).addTo(myMap);
 
 
-// UPDATE MAP 
+// UPDATE MAP
 // ======================
 function updateMap() {
-    
-/*    
-    var curMapStyle;
-    
-    if (myMap.options.layers[0].options.id === 'mapbox/streets-v11') {
-        alert('Street');
+    datasetMap = filterDataMap();
+
+    layear.clearLayers();
+
+    if (currGlobal === "Global Areas") {
+        for (var i = 0; i < datasetMap.length; i++) {
+            L.circle(returnAreaLatLon(datasetMap[i].areaname), {
+                stroke: false,
+                fillOpacity: 0.5,
+                fillColor: "purple",
+                radius: markerSize(datasetMap[i].value)
+            }).bindPopup(
+                "<span style='font-weight:bold;font-size:1rem;'> " + getContinentMap(datasetMap[i].areaname) + " " +
+                datasetMap[i].areaname + "</span> <hr> " +
+                "<p>Category: " + currDevel + "</p>" +
+                "<p>Immigration in " + currYear + ": " + datasetMap[i].value.toLocaleString() + "</p>"
+            ).addTo(layear);
+        }
+    } else {
+        for (var j = 0; j < datasetMap.length; j++) {
+            L.circle([datasetMap[j].lat, datasetMap[j].lon], {
+                stroke: false,
+                fillOpacity: 0.5,
+                fillColor: "purple",
+                radius: markerSize(datasetMap[j].value)
+            }).bindPopup(
+                "<span style='font-weight:bold;font-size:1rem;'>" +
+                "<img style='width:30px; border: 1px solid #dce0e5;' src=" + datasetMap[j].flag + "  alt='flag'>  " + datasetMap[j].country +
+                "</span> <hr> " +
+                "<p>Category: " + currDevel + "</p>" +
+                "<p>Immigration in " + currYear + ": " + datasetMap[j].value.toLocaleString() + "</p>"
+            ).addTo(layear);
+        }
     }
-         
-    if (myMap.options.layers[0].options.id === 'mapbox/dark-v10') {
-        alert('Dark');
-    }
-         
-
-    //console.log(myMap.options.layers[0]);
-    console.log(myMap);
-*/
-
-
-    // Update the dataset according with current filters 
-    datasetMap = filterDataMap( );
-
-    // Clean last markers
-    myMap.remove();
-    markers = [];
-
-    // Set new markers 
-    mountMarkers(markers);
-
-    // Assign new markers to the layear
-    layear = L.layerGroup(markers);
-
-      // Redefine the map object
-     myMap = L.map("mapid", {
-        center: [33, 20],
-        zoom: 2,
-        layers: [streetmap, layear]
-      });
-
-    // Add the new object to map
-    layerControl.addTo(myMap);
-
 }
